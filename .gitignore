@@ -1,0 +1,4 @@
+*.csv
+*.feather
+env
+!frequencies*.csv
