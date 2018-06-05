@@ -2,7 +2,7 @@
 
 URL: http://dx.doi.org/10.7910/DVN/GSZG1O
 
-Version: 2018-05-11
+Version: 2018-06-05
 
 | State                   | Added      |
 | ----------------------- | ---------- |
@@ -20,13 +20,13 @@ Version: 2018-05-11
 | Hawaii                  | 2018-03-29 |
 | Idaho                   | 2018-03-11 |
 | Illinois                | 2018-04-23 |
-| Indiana                 |            |
+| Indiana                 | 2018-06-05 |
 | Iowa                    | 2018-04-23 |
 | Kansas                  | 2018-04-23 |
 | Kentucky                | 2018-04-23 |
 | Louisiana               | 2018-03-11 |
 | Maine                   | 2018-05-09 |
-| Maryland                |            |
+| Maryland                | 2018-06-04 |
 | Massachusetts           | 2018-03-29 |
 | Michigan                | 2018-04-09 |
 | Minnesota               | 2018-03-29 |
@@ -36,7 +36,7 @@ Version: 2018-05-11
 | Nebraska                | 2018-04-23 |
 | Nevada                  | 2018-04-23 |
 | New Hampshire           | 2018-05-10 |
-| New Jersey              |            |
+| New Jersey              | 2018-06-04 |
 | New Mexico              | 2018-03-11 |
 | New York                | 2018-04-23 |
 | North Carolina          | 2018-03-29 |
@@ -178,11 +178,11 @@ in the source data.
 
 ## Indiana
 
-Not yet included.
+Added 2018-06-05.
 
-  - There are inconsistencies in `candidate` spellings following OCR. Values in the
-`votes` column may also be affected.
-  - Vote counts are too high, compared to county-level returns.
+  - Candidate names for lower office are not always consistent across counties.
+  - The data don't yet include write-in votes for president, with the exception of
+returns from La Porte and Marshall.
 
 
 ## Iowa
@@ -216,11 +216,7 @@ Added 2018-05-09.
 
 ## Maryland
 
-Not yet included.
-
-  - In the current release, only election-day votes are included. Other vote modes
-are reported at the county level, and we need to append them to the precinct-
-level returns.
+Added 2018-06-04.
 
 
 ## Massachusetts
@@ -296,10 +292,9 @@ Added 2018-05-10.
 
 ## New Jersey
 
-Not yet included.
+Added 2018-06-04.
 
-  - There's extensive double-counting of returns from inconsistency across
-municipalities in use of total rows.
+  - Candidate names for lower office are not always consistent across counties.
 
 
 ## New Mexico

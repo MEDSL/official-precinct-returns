@@ -3,6 +3,18 @@
 URL: http://dx.doi.org/10.7910/DVN/GSZG1O
 
 
+## 2018-06-05
+
+This release brings coverage to all 50 states and DC, by adding precinct-level
+returns from Indiana, Maine, Maryland, Mississippi, Missouri, Montana, New
+Hampshire, New Jersey, and West Virginia.
+
+The remaining gaps in coverage are
+(1) returns for state legislative elections in Idaho and New Hampshire; (2)
+local-election returns from 4 states; and (3) write-in votes in 21 states. For
+details, see the coverage notes.
+
+
 ## 2018-04-23
 
 This release adds precinct-level returns from Georgia, Illinois, Iowa, Kansas,

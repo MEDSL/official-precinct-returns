@@ -2,7 +2,15 @@
 
 This is the MEDSL repository for precinct-level election returns. We periodically publish its contents to our [Dataverse](https://dataverse.harvard.edu/dataverse/medsl_election_returns) and [website](https://electionlab.mit.edu/data).
 
-The `2016-precinct-*` directories contain data and documentation for Dataverse datasets. Returns by state are in the `source` directory.
+The `2016-precinct-*` directories contain returns organized by office (as on Dataverse):
+
+* [U.S. President](https://github.com/MEDSL/precinct-returns/tree/master/2016-precinct-president)
+* [U.S. Senate](https://github.com/MEDSL/precinct-returns/tree/master/2016-precinct-senate)
+* [U.S. House](https://github.com/MEDSL/precinct-returns/tree/master/2016-precinct-house)
+* [State offices](https://github.com/MEDSL/precinct-returns/tree/master/2016-precinct-state)
+* [Local offices](https://github.com/MEDSL/precinct-returns/tree/master/2016-precinct-local)
+
+Returns by state are in the `source` directory. These are alternative partitions of the same data.
 
 
 # Coverage
@@ -23,13 +31,13 @@ The `2016-precinct-*` directories contain data and documentation for Dataverse d
 | Hawaii                  | 2018-03-29 |
 | Idaho                   | 2018-03-11 |
 | Illinois                | 2018-04-23 |
-| Indiana                 |            |
+| Indiana                 | 2018-06-05 |
 | Iowa                    | 2018-04-23 |
 | Kansas                  | 2018-04-23 |
 | Kentucky                | 2018-04-23 |
 | Louisiana               | 2018-03-11 |
 | Maine                   | 2018-05-09 |
-| Maryland                |            |
+| Maryland                | 2018-06-04 |
 | Massachusetts           | 2018-03-29 |
 | Michigan                | 2018-04-09 |
 | Minnesota               | 2018-03-29 |
@@ -39,7 +47,7 @@ The `2016-precinct-*` directories contain data and documentation for Dataverse d
 | Nebraska                | 2018-04-23 |
 | Nevada                  | 2018-04-23 |
 | New Hampshire           | 2018-05-10 |
-| New Jersey              |            |
+| New Jersey              | 2018-06-04 |
 | New Mexico              | 2018-03-11 |
 | New York                | 2018-04-23 |
 | North Carolina          | 2018-03-29 |
@@ -181,11 +189,11 @@ in the source data.
 
 ## Indiana
 
-Not yet included.
+Added 2018-06-05.
 
-  - There are inconsistencies in `candidate` spellings following OCR. Values in the
-`votes` column may also be affected.
-  - Vote counts are too high, compared to county-level returns.
+  - Candidate names for lower office are not always consistent across counties.
+  - The data don't yet include write-in votes for president, with the exception of
+returns from La Porte and Marshall.
 
 
 ## Iowa
@@ -219,11 +227,7 @@ Added 2018-05-09.
 
 ## Maryland
 
-Not yet included.
-
-  - In the current release, only election-day votes are included. Other vote modes
-are reported at the county level, and we need to append them to the precinct-
-level returns.
+Added 2018-06-04.
 
 
 ## Massachusetts
@@ -299,10 +303,9 @@ Added 2018-05-10.
 
 ## New Jersey
 
-Not yet included.
+Added 2018-06-04.
 
-  - There's extensive double-counting of returns from inconsistency across
-municipalities in use of total rows.
+  - Candidate names for lower office are not always consistent across counties.
 
 
 ## New Mexico
