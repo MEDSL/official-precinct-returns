@@ -88,6 +88,7 @@ candidate,COUNTY JUDGE,276
 candidate,"COUNTY JUDGE ROBERT HATHAWAY- REP,",92
 candidate,COUNTY SHERIFF SHERIFF MIKE MOORE,92
 candidate,Caroline Fayard,4032
+candidate,Chabot,301
 candidate,Charles Aldrich,3360
 candidate,Charles Boustany,4032
 candidate,Charles E. Grassley,3360
@@ -155,6 +156,7 @@ candidate,Dan Carter,744
 candidate,Dan Chapin,3010
 candidate,Darryl Glenn,3011
 candidate,David Duke,4032
+candidate,Day,301
 candidate,"DeWitt Ald. W1 P2, Debbie Fox, Ind",120
 candidate,"DeWitt Ald. W2 P1, James Vernor, I",120
 candidate,"DeWitt Ald. W3 P1, Robert Young, I",120
@@ -581,7 +583,7 @@ candidate,Wendy Long,42641
 candidate,Wendy Ross,3606
 candidate,"Wiesner, Patrick",2676
 candidate,"William Robert ""Bob"" Lang",4032
-candidate,,36157
+candidate,,35555
 candidate_fec,H0IL10120; S0IL00261,10088
 candidate_fec,H0IN09070; S6IN00191,5335
 candidate_fec,H0OK05114; S4OK00232,5874
@@ -705,7 +707,6 @@ candidate_fec_name,"CARTER, DAN",744
 candidate_fec_name,"CLEMENTS, THOMAS PATRICK",4032
 candidate_fec_name,"CONNORS, THOMAS WILLIAM",8887
 candidate_fec_name,"CRAIG, BRECK ANDREW MR",563
-candidate_fec_name,"CRAPO, MICHAEL",961
 candidate_fec_name,"CRAWFORD, DONALD L JR",4032
 candidate_fec_name,"CRUMPTON, RONALD (RON) STEVEN",2335
 candidate_fec_name,"DALACK, BASIL EDWARD",5521
@@ -782,7 +783,7 @@ candidate_fec_name,"WILLIAMS, LILY TANG",3011
 candidate_fec_name,"WILSON, ROBIN LAVERNE",13709
 candidate_fec_name,"WRITZ, RAYMOND J",960
 candidate_fec_name,"WYDEN, RONALD L",1343
-candidate_fec_name,,423929
+candidate_fec_name,,424890
 candidate_first,Brian,741
 candidate_first,Charles,65089
 candidate_first,James,5874
@@ -1068,6 +1069,7 @@ candidate_normalized,cao,4032
 candidate_normalized,carroll,741
 candidate_normalized,carter,1188
 candidate_normalized,cawyer,42
+candidate_normalized,chabot,301
 candidate_normalized,chapin,3010
 candidate_normalized,charles,360
 candidate_normalized,chrystal,80
@@ -1092,6 +1094,7 @@ candidate_normalized,dalack,5521
 candidate_normalized,dan,80
 candidate_normalized,daniel,42
 candidate_normalized,davis,444
+candidate_normalized,day,301
 candidate_normalized,deffenbaugh,444
 candidate_normalized,dem,92
 candidate_normalized,demare,8887
@@ -1339,7 +1342,7 @@ candidate_normalized,wp,276
 candidate_normalized,writz,960
 candidate_normalized,wyden,1343
 candidate_normalized,young,7434
-candidate_normalized,,36157
+candidate_normalized,,35555
 candidate_opensecrets,N00001093,61729
 candidate_opensecrets,N00001489,9176
 candidate_opensecrets,N00001758,3360
@@ -77892,7 +77895,7 @@ precinct,Barkhamsted Elementary School,7
 precinct,Barksdale,12
 precinct,Barnard School,7
 precinct,Barnes Township,4
-precinct,Barnstead*,4
+precinct,Barnstead,4
 precinct,Barnum School,7
 precinct,Barr Road #1,13
 precinct,Barr Road #2,13
@@ -86458,9 +86461,6 @@ precinct,Claquato,2
 precinct,Clara Barton Community Center|pplaceid: 13940|pollid: 2356|electdist: 7|prec: 3,10
 precinct,Clare 1,45
 precinct,Claremont Fire Station,2
-precinct,Claremont Ward 1,5
-precinct,Claremont Ward 2,5
-precinct,Claremont Ward 3,5
 precinct,Clarence Rogers School 01,7
 precinct,Clarence Township,4
 precinct,Clarendon Ward 1,25
@@ -86977,16 +86977,6 @@ precinct,Concord 31,6
 precinct,Concord 32,6
 precinct,Concord 33,6
 precinct,Concord Township,8
-precinct,Concord Ward 1,5
-precinct,Concord Ward 10,5
-precinct,Concord Ward 2,5
-precinct,Concord Ward 3,4
-precinct,Concord Ward 4,5
-precinct,Concord Ward 5,4
-precinct,Concord Ward 6,5
-precinct,Concord Ward 7,5
-precinct,Concord Ward 8,4
-precinct,Concord Ward 9,5
 precinct,Concord-Badus-Wayne/Ramona,2
 precinct,Concord-Mowers,2
 precinct,Concord/Sherman/Grant/Tipton,12
@@ -88927,12 +88917,6 @@ precinct,Douglass Township/City,4
 precinct,Dover,16
 precinct,Dover In,25
 precinct,Dover Out,25
-precinct,Dover Ward 1,5
-precinct,Dover Ward 2,4
-precinct,Dover Ward 3,5
-precinct,Dover Ward 4,5
-precinct,Dover Ward 5,5
-precinct,Dover Ward 6,5
 precinct,Dowell 01,12
 precinct,Downers Grove 001,5
 precinct,Downers Grove 002,5
@@ -92415,9 +92399,6 @@ precinct,Franklin Town Hall,7
 precinct,Franklin Township,44
 precinct,Franklin Township C1,4
 precinct,Franklin Township C2,4
-precinct,Franklin Ward 1,5
-precinct,Franklin Ward 2,5
-precinct,Franklin Ward 3,5
 precinct,Franklin-Pleasant,12
 precinct,Franklin/Gilbert,12
 precinct,Franklinville 1,9
@@ -99660,11 +99641,6 @@ precinct,Keenan,13
 precinct,Keene 1,9
 precinct,Keene 2,9
 precinct,Keene Township,4
-precinct,Keene Ward 1,5
-precinct,Keene Ward 2,5
-precinct,Keene Ward 3,4
-precinct,Keene Ward 4,5
-precinct,Keene Ward 5,4
 precinct,Keeney Cultural Center,7
 precinct,Keeney School,7
 precinct,Keevil Township,25
@@ -101260,12 +101236,6 @@ precinct,Lacey 49,2
 precinct,Lacey Township,4
 precinct,Lackamas,2
 precinct,Laco,13
-precinct,Laconia Ward 1,5
-precinct,Laconia Ward 2,4
-precinct,Laconia Ward 3,5
-precinct,Laconia Ward 4,5
-precinct,Laconia Ward 5,5
-precinct,Laconia Ward 6,5
 precinct,Lacy Creek,2
 precinct,Ladore Township,4
 precinct,Ladys Island 1A,13
@@ -101610,9 +101580,6 @@ precinct,Lebanon,26
 precinct,Lebanon 1,5
 precinct,Lebanon 2,5
 precinct,Lebanon 3,5
-precinct,Lebanon Ward 1,4
-precinct,Lebanon Ward 2,4
-precinct,Lebanon Ward 3,5
 precinct,Lecompton Township Precinct 57 S19,4
 precinct,Lecompton Township Precinct 57 S2,4
 precinct,Ledyard 1 07,15
@@ -105097,18 +105064,9 @@ precinct,Manassas,12
 precinct,Manchester,13
 precinct,Manchester High School,7
 precinct,Manchester Valley High School Cafeteria|pplaceid: 13385|pollid: 2083|electdist: 6|prec: 1,10
-precinct,Manchester Ward 1,17
-precinct,Manchester Ward 10,5
-precinct,Manchester Ward 11,5
-precinct,Manchester Ward 12,5
-precinct,Manchester Ward 2,17
-precinct,Manchester Ward 3,17
-precinct,Manchester Ward 4,5
-precinct,Manchester Ward 5*,5
-precinct,Manchester Ward 6,5
-precinct,Manchester Ward 7,5
-precinct,Manchester Ward 8,5
-precinct,Manchester Ward 9,5
+precinct,Manchester Ward 1,12
+precinct,Manchester Ward 2,12
+precinct,Manchester Ward 3,12
 precinct,Manderson,2
 precinct,Manhattan City Ward 01 Precinct 01,4
 precinct,Manhattan City Ward 02 Precinct 01,4
@@ -105585,9 +105543,9 @@ precinct,Menlo-Firdale,2
 precinct,Menno Township,4
 precinct,Menoken School,5
 precinct,Mentz 1 03,15
+precinct,Meredith,4
 precinct,Meredith 1,9
 precinct,Meredith 2,9
-precinct,Meredith*,4
 precinct,Meridian,5
 precinct,Meridian Township,4
 precinct,Meriweather,12
@@ -107669,15 +107627,6 @@ precinct,Naples,3
 precinct,Naples 04,4
 precinct,Napoli,9
 precinct,Naselle,2
-precinct,Nashua Ward 1,5
-precinct,Nashua Ward 2,5
-precinct,Nashua Ward 3,5
-precinct,Nashua Ward 4,5
-precinct,Nashua Ward 5,5
-precinct,Nashua Ward 6,4
-precinct,Nashua Ward 7,5
-precinct,Nashua Ward 8,5
-precinct,Nashua Ward 9,5
 precinct,Nashville,12
 precinct,Nashville TWP II,20
 precinct,Nashville Twp 1,20
@@ -107809,8 +107758,8 @@ precinct,New Life Assembly of God Church,2
 precinct,New Life Bapt. Church,12
 precinct,New Life Church,7
 precinct,New Lisbon 1,9
+precinct,New London,5
 precinct,New London High School,7
-precinct,New London*,5
 precinct,New Market,13
 precinct,New Market Middle School|pplaceid: 10407|pollid: 2185|electdist: 9|prec: 1,10
 precinct,New Oregon,12
@@ -115891,9 +115840,8 @@ precinct,Plum Township,4
 precinct,Plumb,2
 precinct,Plumlee,12
 precinct,Plymell Township,4
-precinct,Plymouth,4
+precinct,Plymouth,9
 precinct,Plymouth Township,4
-precinct,Plymouth*,5
 precinct,Poca,12
 precinct,Pocahontas #1,12
 precinct,Pocahontas #2,12
@@ -116009,11 +115957,6 @@ precinct,Portland 1,9
 precinct,Portland 2,9
 precinct,Portland 3,9
 precinct,Portland Middle School,7
-precinct,Portsmouth Ward 1,5
-precinct,Portsmouth Ward 2,4
-precinct,Portsmouth Ward 3,5
-precinct,Portsmouth Ward 4,5
-precinct,Portsmouth Ward 5,5
 precinct,Portville 1,9
 precinct,Portville 2,9
 precinct,Posey,6
@@ -118578,12 +118521,6 @@ precinct,Rochester 6,6
 precinct,Rochester 7,6
 precinct,Rochester 8,6
 precinct,Rochester Township,4
-precinct,Rochester Ward 1,5
-precinct,Rochester Ward 2,4
-precinct,Rochester Ward 3,5
-precinct,Rochester Ward 4*,5
-precinct,Rochester Ward 5,4
-precinct,Rochester Ward 6,5
 precinct,Rock,5
 precinct,Rock Creek,35
 precinct,Rock Creek Forest Elementary School|pplaceid: 14667|pollid: 2435|electdist: 13|prec: 39,10
@@ -122721,11 +122658,6 @@ precinct,Somerset Intermediate School Cafeteria|pplaceid: 10908|pollid: 2701|ele
 precinct,Somerset Intermediate School Cafeteria|pplaceid: 10908|pollid: 4146|electdist: 13|prec: 3,10
 precinct,Somerset/000/1,9
 precinct,Somerset/000/2,9
-precinct,Somersworth Ward 1,4
-precinct,Somersworth Ward 2,5
-precinct,Somersworth Ward 3,4
-precinct,Somersworth Ward 4,4
-precinct,Somersworth Ward 5,5
 precinct,Sommerville,2
 precinct,Sope Creek 01,12
 precinct,Sope Creek 02,12
@@ -123453,7 +123385,7 @@ precinct,Swansea #2,13
 precinct,Swansfield Elementary School Cafeteria|pplaceid: 13448|pollid: 2240|electdist: 5|prec: 7,10
 precinct,Swansfield Elementary School Gym|pplaceid: 13448|pollid: 2991|electdist: 5|prec: 21,10
 precinct,Swanton Community Building|pplaceid: 10420|pollid: 2198|electdist: 1|prec: 0,10
-precinct,Swanzey*,5
+precinct,Swanzey,5
 precinct,Swede Creek Township,4
 precinct,Sweden 1,10
 precinct,Sweden 10,10
@@ -132963,7 +132895,7 @@ precinct,Ward 09 Precinct 48,4
 precinct,Ward 09 Precinct 49,4
 precinct,Ward 09 Precinct 50,5
 precinct,Ward 09 Precinct 51,4
-precinct,Ward 1,134
+precinct,Ward 1,192
 precinct,Ward 1 Ansonia Armory,7
 precinct,Ward 1 ED 1,9
 precinct,Ward 1 ED 2,9
@@ -132971,7 +132903,7 @@ precinct,Ward 1 ED 3,9
 precinct,Ward 1-1,9
 precinct,Ward 1-2,9
 precinct,Ward 1-3,9
-precinct,Ward 10,13
+precinct,Ward 10,23
 precinct,Ward 10 Pct 01,5
 precinct,Ward 10 Precinct 01,5
 precinct,Ward 10 Precinct 02,5
@@ -133009,7 +132941,7 @@ precinct,Ward 10 Precinct 33,5
 precinct,Ward 10 Precinct 34,4
 precinct,Ward 10 Precinct 35,5
 precinct,Ward 10 Precinct 36,4
-precinct,Ward 11,13
+precinct,Ward 11,18
 precinct,Ward 11 Precinct 01,5
 precinct,Ward 11 Precinct 02,5
 precinct,Ward 11 Precinct 03,5
@@ -133048,7 +132980,7 @@ precinct,Ward 11 Precinct 35,4
 precinct,Ward 11 Precinct 36,4
 precinct,Ward 11 Precinct 37,4
 precinct,Ward 11 Precinct 38,4
-precinct,Ward 12,13
+precinct,Ward 12,18
 precinct,Ward 12 Precinct 01,5
 precinct,Ward 12 Precinct 02,4
 precinct,Ward 12 Precinct 03,5
@@ -133367,7 +133299,7 @@ precinct,Ward 19 Precinct 55,5
 precinct,Ward 19 Precinct 56,5
 precinct,Ward 19 Precinct 57,4
 precinct,Ward 1A,20
-precinct,Ward 2,134
+precinct,Ward 2,189
 precinct,Ward 2 Ansonia Armory,7
 precinct,Ward 2 ED 1,9
 precinct,Ward 2 ED 2,9
@@ -133803,7 +133735,7 @@ precinct,Ward 29 Precinct 42,4
 precinct,Ward 29 Precinct 43,5
 precinct,Ward 29 Precinct 44,5
 precinct,Ward 2A,20
-precinct,Ward 3,134
+precinct,Ward 3,191
 precinct,Ward 3 ED 1,9
 precinct,Ward 3 ED 2,9
 precinct,Ward 3 ED 3,9
@@ -134203,7 +134135,7 @@ precinct,Ward 39 Precinct 43,5
 precinct,Ward 39 Precinct 44,4
 precinct,Ward 39 Precinct 45,5
 precinct,Ward 3A,20
-precinct,Ward 4,69
+precinct,Ward 4,113
 precinct,Ward 4 Ansonia Middle School,7
 precinct,Ward 4 ED 1,9
 precinct,Ward 4 ED 2,9
@@ -134644,7 +134576,7 @@ precinct,Ward 49 Precinct 33,5
 precinct,Ward 4A,20
 precinct,Ward 4B,20
 precinct,Ward 4C,20
-precinct,Ward 5,13
+precinct,Ward 5,55
 precinct,Ward 5 Ansonia Middle School,7
 precinct,Ward 5 ED 1,9
 precinct,Ward 5 ED 2,9
@@ -134693,21 +134625,21 @@ precinct,Ward 50 Precinct 37,4
 precinct,Ward 50 Precinct 38,5
 precinct,Ward 50 Precinct 39,5
 precinct,Ward 50 Precinct 40,4
-precinct,Ward 6,13
+precinct,Ward 6,42
 precinct,Ward 6 ED 1,9
 precinct,Ward 6 ED 2,9
 precinct,Ward 6 Prendergast School,7
 precinct,Ward 6-1,9
 precinct,Ward 6-2,9
-precinct,Ward 7,13
+precinct,Ward 7,28
 precinct,Ward 7 ED 1,9
 precinct,Ward 7 ED 2,9
 precinct,Ward 7 ED 3,9
 precinct,Ward 7 Mead School,7
-precinct,Ward 8,13
+precinct,Ward 8,27
 precinct,Ward 8 ED 1,9
 precinct,Ward 8 ED 2,9
-precinct,Ward 9,13
+precinct,Ward 9,28
 precinct,Ward Museum Lobby|pplaceid: 14717|pollid: 4704|electdist: 8|prec: 4,10
 precinct,Ward One,2
 precinct,Ward Three,2

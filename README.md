@@ -173,7 +173,7 @@ Added 2018-03-29.
 
 Added 2018-03-11.
 
-  - The data don't yet include elections to the Idaho House and Senate.
+  - Idaho House and Senate returns were added 2018-06-12.
 
 
 ## Illinois
@@ -297,8 +297,7 @@ ballot secrecy. Details forthcoming.
 
 Added 2018-05-10.
 
-  - The data don't yet include write-in votes for president.
-  - The data don't yet include returns for state legislative or local races.
+  - State legislative returns are post-recount, and added 2018-06-12.
 
 
 ## New Jersey

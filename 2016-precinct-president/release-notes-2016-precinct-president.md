@@ -3,6 +3,12 @@
 URL: http://dx.doi.org/10.7910/DVN/LYWX3D
 
 
+## 2018-06-12
+
+The data now include state legislative returns from New Hampshire and Idaho,
+and presidential write-in votes from new Hampshire.
+
+
 ## 2018-06-05
 
 This release brings coverage to all 50 states and DC, by adding precinct-level
