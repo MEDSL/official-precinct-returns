@@ -2,7 +2,11 @@
 
 URL: http://dx.doi.org/10.7910/DVN/NLTQAD
 
+<<<<<<< HEAD
 Version: 2018-06-12
+=======
+Version: 2018-06-15
+>>>>>>> fixup
 
 | State                   | Added      |
 | ----------------------- | ---------- |
@@ -199,6 +203,9 @@ Added 2018-04-23.
 
 Added 2018-04-23.
 
+  - See GitHub issue \#2. There are ~20K too many votes for the major-party
+presidential candidates, likely the result of doubly-counted ballots.
+
 
 ## Louisiana
 
@@ -305,6 +312,9 @@ Added 2018-03-11.
 
 Added 2018-04-23.
 
+  - The data are not as clean in New York as elsewhere because of the need for
+county-by-county collection. The returns over-count the major-party
+presidential vote by ~35K ballots (see GitHub issue \#2, h/t @wtadler).
   - Candidate names for lower office are not always consistent across counties.
 
 

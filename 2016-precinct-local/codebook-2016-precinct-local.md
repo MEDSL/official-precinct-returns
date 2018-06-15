@@ -2,7 +2,11 @@
 
 URL: https://dx.doi.org/10.7910/DVN/Q8OHRS
 
+<<<<<<< HEAD
 Version: 2018-06-12
+=======
+Version: 2018-06-15
+>>>>>>> fixup
 
 This codebook describes a dataset on precinct-level returns for elections to
 local office.
