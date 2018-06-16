@@ -19,7 +19,7 @@ candidate,Absentee/Military,5457
 candidate,Affidavit,5456
 candidate,Alabama Democratic Party,2161
 candidate,Alabama Republican Party,2161
-candidate,Alex Merced,15486
+candidate,Alex Merced,15405
 candidate,Andrew Rule,689
 candidate,Ann Kirkpatrick,3456
 candidate,Anonymous,46
@@ -94,7 +94,7 @@ candidate,Charles Aldrich,3360
 candidate,Charles Boustany,4032
 candidate,Charles E. Grassley,3360
 candidate,Charles Marsala,4032
-candidate,Charles Schumer,61729
+candidate,Charles Schumer,61405
 candidate,Charles U. Smith,2098
 candidate,Chris Van Hollen,2128
 candidate,Chris Vance,4610
@@ -325,8 +325,8 @@ candidate,Jeffrey Binkins,2098
 candidate,Jerry Moran,1127
 candidate,Jerry Sturgill,961
 candidate,Jerry Trudell,275
-candidate,Jim GRAY,2918
-candidate,Jim Gray,1070
+candidate,Jim GRAY,3545
+candidate,Jim Gray,929
 candidate,Jim Hennager,3360
 candidate,Jim Lindsay,1372
 candidate,John Fleming,4032
@@ -449,8 +449,8 @@ candidate,RUSSELL ALDERMAN PO. 2,276
 candidate,RUSSELL ALDERMAN PO. 3,276
 candidate,RUSSELL ALDERMAN PO. 4,276
 candidate,RUSSELL ALDERMAN PO. 5,276
-candidate,Rand PAUL,2925
-candidate,Rand Paul,1071
+candidate,Rand PAUL,3554
+candidate,Rand Paul,929
 candidate,Ray J. Writz,960
 candidate,Rebel Michael Scarborough,2550
 candidate,Republican,174
@@ -466,7 +466,7 @@ candidate,Robert Garrard,472
 candidate,Robert N Marquette,432
 candidate,Robin Taylor,412
 candidate,Robin Turner,1365
-candidate,Robin Wilson,13709
+candidate,Robin Wilson,13628
 candidate,Ron Crumpton,2335
 candidate,Ron Johnson,3636
 candidate,Ron Wyden,1372
@@ -504,7 +504,7 @@ candidate,STATE SENATE DISTRICT 23,276
 candidate,STATE SENATE DISTRICT 23-SENATOR R,80
 candidate,STATE SENATE DISTRICT 28,276
 candidate,STATE SENATE DISTRICT 29,276
-candidate,STRAIGHT PARTY,807
+candidate,STRAIGHT PARTY,753
 candidate,SWIFTON ALDERMAN POSITION 3-RODNEY,80
 candidate,SWIFTON ALDERMAN POSITION 5-BRIAN,80
 candidate,SWIFTON ALDERMAN POSTION 2-JEROD H,80
@@ -582,15 +582,11 @@ candidate,WEST POINT ALDERMAN PO. 2,276
 candidate,WEST POINT ALDERMAN PO. 3,276
 candidate,WEST POINT ALDERMAN PO. 4,276
 candidate,"WILLIAMS, JARROD M.",1858
-candidate,Wendy Long,42641
+candidate,Wendy Long,42398
 candidate,Wendy Ross,3606
 candidate,"Wiesner, Patrick",2676
 candidate,"William Robert ""Bob"" Lang",4032
-<<<<<<< HEAD
-candidate,,35555
-=======
-candidate,,39040
->>>>>>> fixup
+candidate,,39428
 candidate_fec,H0IL10120; S0IL00261,10088
 candidate_fec,H0IN09070; S6IN00191,5335
 candidate_fec,H0OK05114; S4OK00232,5874
@@ -605,14 +601,14 @@ candidate_fec,S0FL00338,5925
 candidate_fec,S0HI00126,741
 candidate_fec,S0IA00028,3360
 candidate_fec,S0KS00166,3803
-candidate_fec,S0KY00156,3996
+candidate_fec,S0KY00156,4483
 candidate_fec,S0LA00071,4032
 candidate_fec,S0ND00093,432
 candidate_fec,S0NH00235,320
 candidate_fec,S0OH00133; H4OH02032,8887
 candidate_fec,S0UT00165,2233
 candidate_fec,S2NC00257,12151
-candidate_fec,S2NY00259,42641
+candidate_fec,S2NY00259,42398
 candidate_fec,S2OH00238,8887
 candidate_fec,S2SD00068; H6SD00085,707
 candidate_fec,S2UT00187,2230
@@ -652,7 +648,7 @@ candidate_fec,S6ID00104,960
 candidate_fec,S6ID00112,961
 candidate_fec,S6IN00175,30
 candidate_fec,S6IN00225,5335
-candidate_fec,S6KY00120,3997
+candidate_fec,S6KY00120,4483
 candidate_fec,S6LA00300,4032
 candidate_fec,S6LA00318,4032
 candidate_fec,S6LA00334,4032
@@ -676,8 +672,8 @@ candidate_fec,S6NV00218,1858
 candidate_fec,S6NV00242,1858
 candidate_fec,S6NV00259,1858
 candidate_fec,S6NV00341,1858
-candidate_fec,S6NY00425,13709
-candidate_fec,S6NY00433,15486
+candidate_fec,S6NY00425,13628
+candidate_fec,S6NY00433,15405
 candidate_fec,S6OH00254,8887
 candidate_fec,S6OH00262,8887
 candidate_fec,S6OK04130,5874
@@ -694,9 +690,9 @@ candidate_fec,S6WI00152,3636
 candidate_fec,S8AK00082,563
 candidate_fec,S8ID00027; H2ID02034,961
 candidate_fec,S8IN00049,5335
-candidate_fec,S8NY00082; H0NY16010,61729
+candidate_fec,S8NY00082; H0NY16010,61405
 candidate_fec,S8WI00026,3636
-candidate_fec,,411059
+candidate_fec,,411393
 candidate_fec_name,"ANDERSON, PHILLIP NORMAN",3636
 candidate_fec_name,"BARKSDALE, JAMES FREEMAN",10772
 candidate_fec_name,"BARRON, WILLIAM CURRIE",2230
@@ -731,7 +727,7 @@ candidate_fec_name,"FLOWERS, MARGARET",2127
 candidate_fec_name,"GLASSHEIM, ELIOT",432
 candidate_fec_name,"GLENN, DARRYL",3011
 candidate_fec_name,"GRASSLEY, CHARLES E SENATOR",3360
-candidate_fec_name,"GRAY, JIM P",3997
+candidate_fec_name,"GRAY, JIM P",4483
 candidate_fec_name,"GUMINA, TONY DR",1858
 candidate_fec_name,"HARRIS, KAMALA D",42839
 candidate_fec_name,"HAUGH, SEAN",12151
@@ -750,7 +746,7 @@ candidate_fec_name,"LEAHY, PATRICK J",275
 candidate_fec_name,"LEE, MIKE",2233
 candidate_fec_name,"LEE, PATRICK",50
 candidate_fec_name,"LEWALLEN, SHANTI",1372
-candidate_fec_name,"LONG, WENDY",42641
+candidate_fec_name,"LONG, WENDY",42398
 candidate_fec_name,"LUICK-THRAMS, ALIZA MICHAEL DR",3360
 candidate_fec_name,"MACHAT, STEVEN",5588
 candidate_fec_name,"MANESS, ROBERT L COL. RET",4032
@@ -758,7 +754,7 @@ candidate_fec_name,"MARSALA, CHARLES",4032
 candidate_fec_name,"MASTO, CATHERINE CORTEZ",1858
 candidate_fec_name,"MCGINTY, KATHLEEN ALANA",9176
 candidate_fec_name,"MENCONI, ARNOLD MICHAEL",3010
-candidate_fec_name,"MERCED, ALEX",15486
+candidate_fec_name,"MERCED, ALEX",15405
 candidate_fec_name,"METCALFE, RAY HOMER",563
 candidate_fec_name,"MILLER, JOSEPH W",563
 candidate_fec_name,"MILNE, SCOTT",275
@@ -768,7 +764,6 @@ candidate_fec_name,"MURPHY, PATRICK E",5917
 candidate_fec_name,"MURRAY, PATTY",4610
 candidate_fec_name,"NATHAN, BRUCE",5698
 candidate_fec_name,"PATEL, ABHAY",4032
-candidate_fec_name,"PAUL, RAND",3996
 candidate_fec_name,"PELLERIN, JOSHUA A",4032
 candidate_fec_name,"PORTMAN, ROB",8887
 candidate_fec_name,"ROSS, DEBORAH K",12152
@@ -789,16 +784,11 @@ candidate_fec_name,"WIESNER, PATRICK",3803
 candidate_fec_name,"WILLIAMS, JARROD M.",1858
 candidate_fec_name,"WILLIAMS, JAY HENLEY",707
 candidate_fec_name,"WILLIAMS, LILY TANG",3011
-candidate_fec_name,"WILSON, ROBIN LAVERNE",13709
+candidate_fec_name,"WILSON, ROBIN LAVERNE",13628
 candidate_fec_name,"WRITZ, RAYMOND J",960
-<<<<<<< HEAD
-candidate_fec_name,"WYDEN, RONALD L",1343
-candidate_fec_name,,424890
-=======
-candidate_fec_name,,498475
->>>>>>> fixup
+candidate_fec_name,,502968
 candidate_first,Brian,741
-candidate_first,Charles,65089
+candidate_first,Charles,64765
 candidate_first,James,5874
 candidate_first,Jerry,3803
 candidate_first,John,19399
@@ -812,7 +802,7 @@ candidate_first,Michael,3972
 candidate_first,Mike,2233
 candidate_first,Patrick,9451
 candidate_first,Patty,4610
-candidate_first,Rand,3996
+candidate_first,Rand,4483
 candidate_first,Richard,15972
 candidate_first,Robert,8887
 candidate_first,Ron,1372
@@ -820,9 +810,9 @@ candidate_first,Roy,3225
 candidate_first,Tammy,10088
 candidate_first,Tim,2550
 candidate_first,Todd,5335
-candidate_first,,779375
+candidate_first,,779790
 candidate_full,Brian Schatz,741
-candidate_full,Charles E. Schumer,61729
+candidate_full,Charles E. Schumer,61405
 candidate_full,Chuck Grassley,3360
 candidate_full,James Lankford,5874
 candidate_full,Jerry Moran,3803
@@ -843,7 +833,7 @@ candidate_full,Mike Lee,2233
 candidate_full,Patrick J. Leahy,275
 candidate_full,Patrick J. Toomey,9176
 candidate_full,Patty Murray,4610
-candidate_full,Rand Paul,3996
+candidate_full,Rand Paul,4483
 candidate_full,Richard Blumenthal,1485
 candidate_full,Richard Burr,12152
 candidate_full,Richard C. Shelby,2335
@@ -853,11 +843,11 @@ candidate_full,Roy Blunt,3225
 candidate_full,Tammy Duckworth,10088
 candidate_full,Tim Scott,2550
 candidate_full,Todd Young,5335
-candidate_full,,779375
+candidate_full,,779790
 candidate_google,kg:/m/0178p9,1372
 candidate_google,kg:/m/018qx5,4610
 candidate_google,kg:/m/01qb45,432
-candidate_google,kg:/m/01w74d,61729
+candidate_google,kg:/m/01w74d,61405
 candidate_google,kg:/m/0202kf,275
 candidate_google,kg:/m/0202kt,563
 candidate_google,kg:/m/020yj1,2335
@@ -874,7 +864,7 @@ candidate_google,kg:/m/03g_s9,12152
 candidate_google,kg:/m/03tg8m,1485
 candidate_google,kg:/m/03ybyn,707
 candidate_google,kg:/m/05b60qf,3011
-candidate_google,kg:/m/05pdb7q,3996
+candidate_google,kg:/m/05pdb7q,4483
 candidate_google,kg:/m/08sry2,42839
 candidate_google,kg:/m/09v5q9x,2233
 candidate_google,kg:/m/09vqjr,10088
@@ -886,14 +876,14 @@ candidate_google,kg:/m/0dpr5f,5925
 candidate_google,kg:/m/0ds030m,5335
 candidate_google,kg:/m/0fl2sv,4032
 candidate_google,kg:/m/0g9g4r,320
-candidate_google,,779375
+candidate_google,,779790
 candidate_govtrack,300030,961
 candidate_govtrack,300048,3360
 candidate_govtrack,300065,275
 candidate_govtrack,300071,3456
 candidate_govtrack,300075,563
 candidate_govtrack,300076,4610
-candidate_govtrack,300087,61729
+candidate_govtrack,300087,61405
 candidate_govtrack,300089,2335
 candidate_govtrack,300100,1372
 candidate_govtrack,400034,3225
@@ -910,7 +900,7 @@ candidate_govtrack,412464,5874
 candidate_govtrack,412471,2550
 candidate_govtrack,412490,1485
 candidate_govtrack,412491,5925
-candidate_govtrack,412492,3996
+candidate_govtrack,412492,4483
 candidate_govtrack,412493,320
 candidate_govtrack,412494,432
 candidate_govtrack,412495,2233
@@ -919,11 +909,11 @@ candidate_govtrack,412533,10088
 candidate_govtrack,412678,42839
 candidate_govtrack,412679,4032
 candidate_govtrack,412680,320
-candidate_govtrack,,779375
+candidate_govtrack,,779790
 candidate_icpsr,14226.0,3360
 candidate_icpsr,14307.0,275
 candidate_icpsr,14659.0,2335
-candidate_icpsr,14858.0,61729
+candidate_icpsr,14858.0,61405
 candidate_icpsr,14871.0,1372
 candidate_icpsr,15039.0,3456
 candidate_icpsr,20115.0,10088
@@ -943,7 +933,7 @@ candidate_icpsr,40300.0,563
 candidate_icpsr,40910.0,3011
 candidate_icpsr,41101.0,1485
 candidate_icpsr,41102.0,5925
-candidate_icpsr,41104.0,3996
+candidate_icpsr,41104.0,4483
 candidate_icpsr,41106.0,320
 candidate_icpsr,41107.0,432
 candidate_icpsr,41110.0,2233
@@ -952,7 +942,7 @@ candidate_icpsr,41701.0,42839
 candidate_icpsr,41702.0,320
 candidate_icpsr,41703.0,4032
 candidate_icpsr,49308.0,4610
-candidate_icpsr,,779375
+candidate_icpsr,,779790
 candidate_last,Ayotte,320
 candidate_last,Bennet,3011
 candidate_last,Blumenthal,1485
@@ -974,18 +964,18 @@ candidate_last,McCain,3456
 candidate_last,Moran,3803
 candidate_last,Murkowski,563
 candidate_last,Murray,4610
-candidate_last,Paul,3996
+candidate_last,Paul,4483
 candidate_last,Portman,8887
 candidate_last,Rubio,5925
 candidate_last,Schatz,741
-candidate_last,Schumer,61729
+candidate_last,Schumer,61405
 candidate_last,Scott,2550
 candidate_last,Shelby,2335
 candidate_last,Thune,707
 candidate_last,Toomey,9176
 candidate_last,Wyden,1372
 candidate_last,Young,5335
-candidate_last,,779375
+candidate_last,,779790
 candidate_maplight,1092,3011
 candidate_maplight,1406,9176
 candidate_maplight,1439,5335
@@ -993,7 +983,7 @@ candidate_maplight,1470,5874
 candidate_maplight,1476,2550
 candidate_maplight,1495,1485
 candidate_maplight,1496,5925
-candidate_maplight,1497,3996
+candidate_maplight,1497,4483
 candidate_maplight,1498,320
 candidate_maplight,1499,432
 candidate_maplight,1500,2233
@@ -1014,15 +1004,15 @@ candidate_maplight,586,275
 candidate_maplight,592,3456
 candidate_maplight,595,563
 candidate_maplight,596,4610
-candidate_maplight,606,61729
+candidate_maplight,606,61405
 candidate_maplight,608,2335
 candidate_maplight,619,1372
 candidate_maplight,621,707
-candidate_maplight,,779375
+candidate_maplight,,779790
 candidate_middle,A.,563
 candidate_middle,C.,7670
 candidate_middle,D.,961
-candidate_middle,E.,65089
+candidate_middle,E.,64765
 candidate_middle,Emanuel,741
 candidate_middle,F.,3011
 candidate_middle,H.,10772
@@ -1032,13 +1022,13 @@ candidate_middle,Neely,4032
 candidate_middle,S.,3456
 candidate_middle,Steven,10088
 candidate_middle,Wood,320
-candidate_middle,,868834
-candidate_nickname,Chuck,65089
+candidate_middle,,869736
+candidate_nickname,Chuck,64765
 candidate_nickname,Johnny,10772
 candidate_nickname,Maggie,320
 candidate_nickname,Pat,9176
 candidate_nickname,Rob,8887
-candidate_nickname,,911783
+candidate_nickname,,912685
 candidate_normalized,a,304
 candidate_normalized,adams,80
 candidate_normalized,affidavit,5456
@@ -1164,7 +1154,7 @@ candidate_normalized,giuffre,741
 candidate_normalized,glassheim,432
 candidate_normalized,glenn,3011
 candidate_normalized,grassley,3360
-candidate_normalized,gray,3997
+candidate_normalized,gray,4483
 candidate_normalized,gregg,30
 candidate_normalized,gumina,1858
 candidate_normalized,h,160
@@ -1218,7 +1208,7 @@ candidate_normalized,li,42
 candidate_normalized,lindsay,1372
 candidate_normalized,lion,742
 candidate_normalized,loe,42
-candidate_normalized,long,42641
+candidate_normalized,long,42398
 candidate_normalized,looper,444
 candidate_normalized,m,160
 candidate_normalized,ma,122
@@ -1238,7 +1228,7 @@ candidate_normalized,mcmillen,10085
 candidate_normalized,mcn,92
 candidate_normalized,menconi,3010
 candidate_normalized,mendoza,4032
-candidate_normalized,merced,15486
+candidate_normalized,merced,15405
 candidate_normalized,metcalfe,563
 candidate_normalized,meteor,46
 candidate_normalized,mic,224
@@ -1259,9 +1249,9 @@ candidate_normalized,navickas,1372
 candidate_normalized,o,42
 candidate_normalized,p,1562
 candidate_normalized,panna,46
-candidate_normalized,party,5178
+candidate_normalized,party,5124
 candidate_normalized,patel,4032
-candidate_normalized,paul,3996
+candidate_normalized,paul,4483
 candidate_normalized,pellerin,4032
 candidate_normalized,ph,80
 candidate_normalized,pitsch,444
@@ -1307,7 +1297,7 @@ candidate_normalized,scattering,10114
 candidate_normalized,schatz,741
 candidate_normalized,schiess,3636
 candidate_normalized,schlo,80
-candidate_normalized,schumer,61729
+candidate_normalized,schumer,61405
 candidate_normalized,schwartz,444
 candidate_normalized,scott,2550
 candidate_normalized,sen,120
@@ -1359,18 +1349,14 @@ candidate_normalized,wiesner,3803
 candidate_normalized,wil,80
 candidate_normalized,williams,9608
 candidate_normalized,willoughby,3010
-candidate_normalized,wilson,13710
+candidate_normalized,wilson,13629
 candidate_normalized,workman,5874
 candidate_normalized,wp,276
 candidate_normalized,writz,960
 candidate_normalized,wyden,1372
 candidate_normalized,young,7434
-<<<<<<< HEAD
-candidate_normalized,,35555
-=======
-candidate_normalized,,39040
->>>>>>> fixup
-candidate_opensecrets,N00001093,61729
+candidate_normalized,,39428
+candidate_opensecrets,N00001093,61405
 candidate_opensecrets,N00001489,9176
 candidate_opensecrets,N00001758,3360
 candidate_opensecrets,N00002221,12152
@@ -1393,7 +1379,7 @@ candidate_opensecrets,N00028138,741
 candidate_opensecrets,N00030608,3011
 candidate_opensecrets,N00030612,5925
 candidate_opensecrets,N00030670,5335
-candidate_opensecrets,N00030836,3996
+candidate_opensecrets,N00030836,4483
 candidate_opensecrets,N00030980,320
 candidate_opensecrets,N00031129,5874
 candidate_opensecrets,N00031685,1485
@@ -1402,11 +1388,11 @@ candidate_opensecrets,N00031696,2233
 candidate_opensecrets,N00031782,2550
 candidate_opensecrets,N00036915,42839
 candidate_opensecrets,N00038397,320
-candidate_opensecrets,,779375
-candidate_party,Democrat,126470
-candidate_party,Republican,100182
-candidate_party,,779375
-candidate_suffix,,1006027
+candidate_opensecrets,,779790
+candidate_party,Democrat,126146
+candidate_party,Republican,100669
+candidate_party,,779790
+candidate_suffix,,1006605
 candidate_wikidata,Q10390,3456
 candidate_wikidata,Q10853588,42839
 candidate_wikidata,Q130024,10772
@@ -1424,10 +1410,10 @@ candidate_wikidata,Q324546,5925
 candidate_wikidata,Q331278,12152
 candidate_wikidata,Q339046,10088
 candidate_wikidata,Q374762,432
-candidate_wikidata,Q380900,61729
+candidate_wikidata,Q380900,61405
 candidate_wikidata,Q45940,5874
 candidate_wikidata,Q462981,707
-candidate_wikidata,Q463557,3996
+candidate_wikidata,Q463557,4483
 candidate_wikidata,Q472254,2335
 candidate_wikidata,Q529294,3360
 candidate_wikidata,Q529344,1372
@@ -1439,7 +1425,7 @@ candidate_wikidata,Q627098,2233
 candidate_wikidata,Q734319,961
 candidate_wikidata,Q926069,8887
 candidate_wikidata,Q971308,9176
-candidate_wikidata,,779375
+candidate_wikidata,,779790
 county_ansi,23901.0,704
 county_ansi,25441.0,880
 county_ansi,25442.0,588
@@ -2338,12 +2324,12 @@ county_ansi,516856.0,96
 county_ansi,516857.0,52
 county_ansi,516858.0,18
 county_ansi,516859.0,46
-county_ansi,516860.0,102
+county_ansi,516860.0,34
 county_ansi,516861.0,98
 county_ansi,516862.0,26
 county_ansi,516863.0,28
 county_ansi,516864.0,60
-county_ansi,516865.0,767
+county_ansi,516865.0,443
 county_ansi,516866.0,14
 county_ansi,516867.0,24
 county_ansi,516868.0,54
@@ -2358,7 +2344,7 @@ county_ansi,516876.0,172
 county_ansi,516877.0,18
 county_ansi,516878.0,18
 county_ansi,516879.0,32
-county_ansi,516880.0,583
+county_ansi,516880.0,584
 county_ansi,516881.0,38
 county_ansi,516882.0,88
 county_ansi,516883.0,90
@@ -2380,16 +2366,16 @@ county_ansi,516898.0,42
 county_ansi,516899.0,14
 county_ansi,516900.0,102
 county_ansi,516901.0,32
-county_ansi,516902.0,1484
+county_ansi,516902.0,3171
 county_ansi,516903.0,76
 county_ansi,516904.0,66
-county_ansi,516905.0,209
+county_ansi,516905.0,214
 county_ansi,516906.0,64
 county_ansi,516907.0,64
 county_ansi,516908.0,26
 county_ansi,516909.0,94
 county_ansi,516910.0,38
-county_ansi,516911.0,26
+county_ansi,516911.0,22
 county_ansi,516912.0,38
 county_ansi,516913.0,64
 county_ansi,516914.0,32
@@ -2408,7 +2394,7 @@ county_ansi,516926.0,38
 county_ansi,516927.0,18
 county_ansi,516928.0,40
 county_ansi,516929.0,16
-county_ansi,516930.0,108
+county_ansi,516930.0,36
 county_ansi,516931.0,26
 county_ansi,516932.0,26
 county_ansi,516933.0,38
@@ -2419,17 +2405,17 @@ county_ansi,516937.0,12
 county_ansi,516938.0,40
 county_ansi,516939.0,78
 county_ansi,516940.0,26
-county_ansi,516941.0,54
+county_ansi,516941.0,18
 county_ansi,516942.0,28
 county_ansi,516943.0,76
 county_ansi,516944.0,116
 county_ansi,516945.0,24
 county_ansi,516946.0,114
-county_ansi,516947.0,36
+county_ansi,516947.0,12
 county_ansi,516948.0,34
 county_ansi,516949.0,38
 county_ansi,516950.0,34
-county_ansi,516951.0,92
+county_ansi,516951.0,94
 county_ansi,516952.0,70
 county_ansi,516953.0,28
 county_ansi,516954.0,32
@@ -2438,7 +2424,7 @@ county_ansi,516956.0,28
 county_ansi,516957.0,32
 county_ansi,516958.0,26
 county_ansi,516959.0,34
-county_ansi,516960.0,483
+county_ansi,516960.0,623
 county_ansi,516961.0,32
 county_ansi,516962.0,40
 county_ansi,516963.0,30
@@ -2710,7 +2696,7 @@ county_ansi,974156.0,603
 county_ansi,974157.0,9490
 county_ansi,974158.0,360
 county_ansi,974159.0,180
-county_ansi,977309.0,3645
+county_ansi,977309.0,2916
 county_ansi,1008531.0,444
 county_ansi,1008532.0,120
 county_ansi,1008533.0,63
@@ -4471,12 +4457,12 @@ county_fips,21019.0,96
 county_fips,21021.0,52
 county_fips,21023.0,18
 county_fips,21025.0,46
-county_fips,21027.0,102
+county_fips,21027.0,34
 county_fips,21029.0,98
 county_fips,21031.0,26
 county_fips,21033.0,28
 county_fips,21035.0,60
-county_fips,21037.0,767
+county_fips,21037.0,443
 county_fips,21039.0,14
 county_fips,21041.0,24
 county_fips,21043.0,54
@@ -4491,7 +4477,7 @@ county_fips,21059.0,172
 county_fips,21061.0,18
 county_fips,21063.0,18
 county_fips,21065.0,32
-county_fips,21067.0,583
+county_fips,21067.0,584
 county_fips,21069.0,38
 county_fips,21071.0,88
 county_fips,21073.0,90
@@ -4513,16 +4499,16 @@ county_fips,21103.0,42
 county_fips,21105.0,14
 county_fips,21107.0,102
 county_fips,21109.0,32
-county_fips,21111.0,1484
+county_fips,21111.0,3171
 county_fips,21113.0,76
 county_fips,21115.0,66
-county_fips,21117.0,209
+county_fips,21117.0,214
 county_fips,21119.0,64
 county_fips,21121.0,64
 county_fips,21123.0,26
 county_fips,21125.0,94
 county_fips,21127.0,38
-county_fips,21129.0,26
+county_fips,21129.0,22
 county_fips,21131.0,38
 county_fips,21133.0,64
 county_fips,21135.0,32
@@ -4541,7 +4527,7 @@ county_fips,21159.0,32
 county_fips,21161.0,34
 county_fips,21163.0,40
 county_fips,21165.0,16
-county_fips,21167.0,108
+county_fips,21167.0,36
 county_fips,21169.0,26
 county_fips,21171.0,26
 county_fips,21173.0,38
@@ -4552,17 +4538,17 @@ county_fips,21181.0,12
 county_fips,21183.0,40
 county_fips,21185.0,78
 county_fips,21187.0,26
-county_fips,21189.0,54
+county_fips,21189.0,18
 county_fips,21191.0,28
 county_fips,21193.0,76
 county_fips,21195.0,116
 county_fips,21197.0,24
 county_fips,21199.0,114
-county_fips,21201.0,36
+county_fips,21201.0,12
 county_fips,21203.0,34
 county_fips,21205.0,38
 county_fips,21207.0,34
-county_fips,21209.0,92
+county_fips,21209.0,94
 county_fips,21211.0,70
 county_fips,21213.0,28
 county_fips,21215.0,32
@@ -4571,7 +4557,7 @@ county_fips,21219.0,28
 county_fips,21221.0,32
 county_fips,21223.0,26
 county_fips,21225.0,34
-county_fips,21227.0,483
+county_fips,21227.0,623
 county_fips,21229.0,32
 county_fips,21231.0,40
 county_fips,21233.0,30
@@ -4853,7 +4839,7 @@ county_fips,36081.0,18065
 county_fips,36083.0,1062
 county_fips,36085.0,4014
 county_fips,36087.0,2493
-county_fips,36089.0,3645
+county_fips,36089.0,2916
 county_fips,36091.0,1960
 county_fips,36093.0,918
 county_fips,36095.0,546
@@ -6292,7 +6278,7 @@ county_lat,36.963671000000005,52
 county_lat,36.969739000000004,135
 county_lat,36.990587,34
 county_lat,36.992515000000004,26
-county_lat,36.995634,483
+county_lat,36.995634,623
 county_lat,37.012488,940
 county_lat,37.023976,14
 county_lat,37.047793,94
@@ -6361,7 +6347,7 @@ county_lat,37.384141,176
 county_lat,37.403458,32
 county_lat,37.414671999999996,1772
 county_lat,37.417169,30
-county_lat,37.423614,54
+county_lat,37.423614,18
 county_lat,37.43235,44
 county_lat,37.456026,40
 county_lat,37.457174,38
@@ -6395,7 +6381,7 @@ county_lat,37.570029999999996,100
 county_lat,37.594364,49
 county_lat,37.602633000000004,80
 county_lat,37.603075,45
-county_lat,37.608115999999995,26
+county_lat,37.608115999999995,22
 county_lat,37.616761,72
 county_lat,37.618103999999995,52
 county_lat,37.630162,30
@@ -6424,7 +6410,7 @@ county_lat,37.751508,113
 county_lat,37.754209,32
 county_lat,37.768677000000004,45
 county_lat,37.773649,340
-county_lat,37.777988,102
+county_lat,37.777988,34
 county_lat,37.778966,35
 county_lat,37.781074,8
 county_lat,37.786096,285
@@ -6433,7 +6419,7 @@ county_lat,37.796774,32
 county_lat,37.800629,24
 county_lat,37.803188,50
 county_lat,37.810707,116
-county_lat,37.812084999999996,108
+county_lat,37.812084999999996,36
 county_lat,37.821165,8
 county_lat,37.824835,45
 county_lat,37.831664,44
@@ -6480,7 +6466,7 @@ county_lat,38.031651000000004,56
 county_lat,38.03563,96
 county_lat,38.038138,38
 county_lat,38.039069,49
-county_lat,38.040676,583
+county_lat,38.040676,584
 county_lat,38.043103,40
 county_lat,38.049808,108
 county_lat,38.050144,180
@@ -6503,7 +6489,7 @@ county_lat,38.170658,1024
 county_lat,38.181477,112
 county_lat,38.1839,116
 county_lat,38.186440000000005,117
-county_lat,38.189532,1484
+county_lat,38.189532,3171
 county_lat,38.202562,34
 county_lat,38.20425,38
 county_lat,38.215114,72
@@ -6520,7 +6506,7 @@ county_lat,38.259840000000004,60
 county_lat,38.267226,900
 county_lat,38.277983,185
 county_lat,38.289433,54
-county_lat,38.289882,92
+county_lat,38.289882,94
 county_lat,38.299475,44
 county_lat,38.300779999999996,133
 county_lat,38.301035999999996,40
@@ -6570,7 +6556,7 @@ county_lat,38.481922,12
 county_lat,38.499394,26
 county_lat,38.503233,146
 county_lat,38.5071,664
-county_lat,38.513473,36
+county_lat,38.513473,12
 county_lat,38.516647,84
 county_lat,38.522611,258
 county_lat,38.523592,52
@@ -6644,11 +6630,11 @@ county_lat,38.91604,76
 county_lat,38.917239,36
 county_lat,38.921302000000004,44
 county_lat,38.926626,20
-county_lat,38.930503,209
+county_lat,38.930503,214
 county_lat,38.931377000000005,192
 county_lat,38.935184,51
 county_lat,38.940527,33
-county_lat,38.946981,767
+county_lat,38.946981,443
 county_lat,38.955154,60
 county_lat,38.974326,72
 county_lat,38.974595,126
@@ -7421,7 +7407,7 @@ county_lat,44.468790999999996,102
 county_lat,44.474021,485
 county_lat,44.476246,235
 county_lat,44.478004,195
-county_lat,44.488112,3645
+county_lat,44.488112,2916
 county_lat,44.488898,630
 county_lat,44.493882,168
 county_lat,44.496326,35
@@ -8862,8 +8848,8 @@ county_long,-86.469014,318
 county_long,-86.44872099999999,135
 county_long,-86.447457,162
 county_long,-86.440871,54
-county_long,-86.432919,102
-county_long,-86.423579,483
+county_long,-86.432919,34
+county_long,-86.423579,623
 county_long,-86.355168,117
 county_long,-86.344011,46
 county_long,-86.321668,160
@@ -8919,7 +8905,7 @@ county_long,-85.702641,98
 county_long,-85.696841,26
 county_long,-85.692887,80
 county_long,-85.662797,128
-county_long,-85.657624,1484
+county_long,-85.657624,3171
 county_long,-85.654946,189
 county_long,-85.65424200000001,125
 county_long,-85.63359799999999,26
@@ -8994,7 +8980,7 @@ county_long,-84.92822,32
 county_long,-84.925152,30
 county_long,-84.912432,144
 county_long,-84.906723,132
-county_long,-84.879694,108
+county_long,-84.879694,36
 county_long,-84.874946,336
 county_long,-84.873862,144
 county_long,-84.868786,90
@@ -9030,13 +9016,13 @@ county_long,-84.584144,108
 county_long,-84.58396,76
 county_long,-84.582125,96
 county_long,-84.579986,114
-county_long,-84.579376,92
+county_long,-84.579376,94
 county_long,-84.574166,1728
 county_long,-84.56573399999999,1692
 county_long,-84.553828,12
 county_long,-84.545856,30
 county_long,-84.544187,3336
-county_long,-84.533438,209
+county_long,-84.533438,214
 county_long,-84.530029,84
 county_long,-84.529567,60
 county_long,-84.493941,456
@@ -9045,12 +9031,12 @@ county_long,-84.49033299999999,156
 county_long,-84.48643299999999,198
 county_long,-84.47505699999999,504
 county_long,-84.468182,4152
-county_long,-84.458274,583
+county_long,-84.458274,584
 county_long,-84.454881,60
 county_long,-84.454624,156
 county_long,-84.43944599999999,72
 county_long,-84.386627,96
-county_long,-84.379583,767
+county_long,-84.379583,443
 county_long,-84.375112,79
 county_long,-84.35557299999999,696
 county_long,-84.35194399999999,28
@@ -9088,7 +9074,7 @@ county_long,-84.119395,94
 county_long,-84.115235,18
 county_long,-84.106103,528
 county_long,-84.0689,138
-county_long,-84.06423000000001,36
+county_long,-84.06423000000001,12
 county_long,-84.061309,192
 county_long,-84.051231,60
 county_long,-84.02637,216
@@ -9126,12 +9112,12 @@ county_long,-83.74341700000001,132
 county_long,-83.737641,26
 county_long,-83.732264,48
 county_long,-83.731829,252
-county_long,-83.719248,26
+county_long,-83.719248,22
 county_long,-83.71843299999999,44
 county_long,-83.712303,192
 county_long,-83.706152,38
 county_long,-83.694194,396
-county_long,-83.69162800000001,54
+county_long,-83.69162800000001,18
 county_long,-83.69014200000001,36
 county_long,-83.681046,62
 county_long,-83.666034,360
@@ -9610,7 +9596,7 @@ county_long,-75.307447,453
 county_long,-75.293193,105
 county_long,-75.133346,5064
 county_long,-75.10706,912
-county_long,-75.074311,3645
+county_long,-75.074311,2916
 county_long,-75.031514,54
 county_long,-75.028841,441
 county_long,-75.01168299999999,1062
@@ -9808,7 +9794,7 @@ county_name,Bradford County,295
 county_name,Bradley County,350
 county_name,Brantley County,36
 county_name,Breathitt County,46
-county_name,Breckinridge County,102
+county_name,Breckinridge County,34
 county_name,Bremer County,156
 county_name,Brevard County,1360
 county_name,Bronx County,13422
@@ -9855,7 +9841,7 @@ county_name,Cambria County,405
 county_name,Camden County,325
 county_name,Cameron County,30
 county_name,Cameron Parish,384
-county_name,Campbell County,777
+county_name,Campbell County,453
 county_name,Canadian County,750
 county_name,Candler County,24
 county_name,Canyon County,192
@@ -10087,7 +10073,7 @@ county_name,Fall River County,18
 county_name,Fannin County,144
 county_name,Faulk County,14
 county_name,Faulkner County,1000
-county_name,Fayette County,2197
+county_name,Fayette County,2198
 county_name,Ferry County,38
 county_name,Finney County,108
 county_name,Flagler County,181
@@ -10256,7 +10242,7 @@ county_name,Jackson Parish,792
 county_name,Jasper County,947
 county_name,Jay County,54
 county_name,Jeff Davis County,108
-county_name,Jefferson County,10269
+county_name,Jefferson County,11956
 county_name,Jefferson Davis Parish,576
 county_name,Jefferson Parish,6552
 county_name,Jenkins County,60
@@ -10282,7 +10268,7 @@ county_name,Kearny County,36
 county_name,Kendall County,352
 county_name,Kenosha County,580
 county_name,Kent County,128
-county_name,Kenton County,209
+county_name,Kenton County,214
 county_name,Keokuk County,180
 county_name,Kern County,2278
 county_name,Kershaw County,559
@@ -10339,7 +10325,7 @@ county_name,Lawrence County,1962
 county_name,Le Flore County,555
 county_name,Leavenworth County,200
 county_name,Lebanon County,168
-county_name,Lee County,2510
+county_name,Lee County,2506
 county_name,Lehigh County,474
 county_name,Lemhi County,30
 county_name,Lenoir County,282
@@ -10427,7 +10413,7 @@ county_name,Mendocino County,906
 county_name,Menifee County,16
 county_name,Menominee County,10
 county_name,Merced County,788
-county_name,Mercer County,814
+county_name,Mercer County,742
 county_name,Meriwether County,168
 county_name,Merrimack County,178
 county_name,Mesa County,456
@@ -10538,7 +10524,7 @@ county_name,Ouachita Parish,2088
 county_name,Ouray County,40
 county_name,Outagamie County,490
 county_name,Owen County,80
-county_name,Owsley County,54
+county_name,Owsley County,18
 county_name,Owyhee County,39
 county_name,Ozark County,52
 county_name,Ozaukee County,260
@@ -10645,7 +10631,7 @@ county_name,Rio Grande County,120
 county_name,Ripley County,116
 county_name,Riverside County,3554
 county_name,Roberts County,24
-county_name,Robertson County,36
+county_name,Robertson County,12
 county_name,Robeson County,546
 county_name,Rock County,480
 county_name,Rock Island County,600
@@ -10702,7 +10688,7 @@ county_name,Schuyler County,299
 county_name,Schuylkill County,375
 county_name,Scioto County,462
 county_name,Scotland County,175
-county_name,Scott County,1734
+county_name,Scott County,1736
 county_name,Screven County,144
 county_name,Searcy County,240
 county_name,Sebastian County,15984
@@ -10753,7 +10739,7 @@ county_name,St. John the Baptist Parish,984
 county_name,St. Johns County,368
 county_name,St. Joseph County,1344
 county_name,St. Landry Parish,2256
-county_name,St. Lawrence County,3645
+county_name,St. Lawrence County,2916
 county_name,St. Louis County,3321
 county_name,St. Louis city,1110
 county_name,St. Lucie County,512
@@ -10886,7 +10872,7 @@ county_name,Walworth County,230
 county_name,Wapello County,264
 county_name,Ward County,135
 county_name,Ware County,144
-county_name,Warren County,2679
+county_name,Warren County,2819
 county_name,Warrick County,354
 county_name,Wasatch County,152
 county_name,Wasco County,98
@@ -10962,8 +10948,8 @@ county_name,Yuba County,180
 county_name,Yuma County,816
 county_name,Ziebach County,12
 county_name,,4707
-district,statewide,904446
-district,,101581
+district,statewide,905078
+district,,101527
 jurisdiction,ADA,435
 jurisdiction,ADAIR,255
 jurisdiction,ADAMS,418
@@ -11154,7 +11140,7 @@ jurisdiction,Branford,49
 jurisdiction,Brantley,36
 jurisdiction,Brattleboro,18
 jurisdiction,Breathitt,46
-jurisdiction,Breckinridge,102
+jurisdiction,Breckinridge,34
 jurisdiction,Bremer,156
 jurisdiction,Brentwood,4
 jurisdiction,Brevard,1360
@@ -11251,7 +11237,7 @@ jurisdiction,Cambria,405
 jurisdiction,Cambridge,10
 jurisdiction,Camden,268
 jurisdiction,Cameron,414
-jurisdiction,Campbell,777
+jurisdiction,Campbell,453
 jurisdiction,Campton,5
 jurisdiction,Canaan,18
 jurisdiction,Candia,5
@@ -11607,7 +11593,7 @@ jurisdiction,Fannin,144
 jurisdiction,Farmington,54
 jurisdiction,Faulk,14
 jurisdiction,Faulkner County,1000
-jurisdiction,Fayette,2042
+jurisdiction,Fayette,2043
 jurisdiction,Fayston,6
 jurisdiction,Ferrisburgh,6
 jurisdiction,Ferry,38
@@ -11866,7 +11852,7 @@ jurisdiction,Jamaica,6
 jurisdiction,Jasper,867
 jurisdiction,Jay,60
 jurisdiction,Jeff Davis,108
-jurisdiction,Jefferson,13077
+jurisdiction,Jefferson,14764
 jurisdiction,Jefferson County,3232
 jurisdiction,Jefferson Davis,576
 jurisdiction,Jenkins,60
@@ -11900,7 +11886,7 @@ jurisdiction,Keene,23
 jurisdiction,Kensington,4
 jurisdiction,Kent,7
 jurisdiction,Kent County,128
-jurisdiction,Kenton,209
+jurisdiction,Kenton,214
 jurisdiction,Keokuk,180
 jurisdiction,Kern,2278
 jurisdiction,Kershaw,559
@@ -11976,7 +11962,7 @@ jurisdiction,Lawrence County,700
 jurisdiction,Leavenworth,200
 jurisdiction,Lebanon,195
 jurisdiction,Ledyard,19
-jurisdiction,Lee,1907
+jurisdiction,Lee,1903
 jurisdiction,Lee County,225
 jurisdiction,Lehigh,474
 jurisdiction,Leicester,6
@@ -12108,7 +12094,7 @@ jurisdiction,Mendecino,906
 jurisdiction,Mendon,6
 jurisdiction,Menifee,16
 jurisdiction,Merced,788
-jurisdiction,Mercer,717
+jurisdiction,Mercer,645
 jurisdiction,Meredith,4
 jurisdiction,Meriden,91
 jurisdiction,Meriwether,168
@@ -12287,7 +12273,7 @@ jurisdiction,Ouachita,2088
 jurisdiction,Ouachita County,120
 jurisdiction,Ouray,40
 jurisdiction,Owen,80
-jurisdiction,Owsley,54
+jurisdiction,Owsley,18
 jurisdiction,Oxford,7
 jurisdiction,Ozark,52
 jurisdiction,PAMLICO,138
@@ -12453,7 +12439,7 @@ jurisdiction,Ripley,116
 jurisdiction,Ripton,6
 jurisdiction,Riverside,3554
 jurisdiction,Roberts,24
-jurisdiction,Robertson,36
+jurisdiction,Robertson,12
 jurisdiction,Rochester,34
 jurisdiction,Rockcastle,34
 jurisdiction,Rockdale,216
@@ -12542,7 +12528,7 @@ jurisdiction,Schuyler,214
 jurisdiction,Schuylkill,375
 jurisdiction,Scioto,462
 jurisdiction,Scotland,41
-jurisdiction,Scott,1034
+jurisdiction,Scott,1036
 jurisdiction,Scott County,650
 jurisdiction,Screven,144
 jurisdiction,Seabrook,5
@@ -12614,7 +12600,7 @@ jurisdiction,St. Johns,368
 jurisdiction,St. Johnsbury,6
 jurisdiction,St. Joseph,1344
 jurisdiction,St. Landry,2256
-jurisdiction,St. Lawrence,3645
+jurisdiction,St. Lawrence,2916
 jurisdiction,St. Louis,3321
 jurisdiction,St. Louis City,1110
 jurisdiction,St. Lucie,512
@@ -12826,7 +12812,7 @@ jurisdiction,Ward,135
 jurisdiction,Wardsboro,6
 jurisdiction,Ware,144
 jurisdiction,Warner,5
-jurisdiction,Warren,2388
+jurisdiction,Warren,2528
 jurisdiction,Warrick,354
 jurisdiction,Wasatch,152
 jurisdiction,Wasco,98
@@ -12963,25 +12949,20 @@ mode,absentee,4583
 mode,absentee affidavit,1041
 mode,absentee by mail,17243
 mode,absentee_hc,729
-mode,absentee_machine,2
-mode,absentee_mail,6
-mode,absentee_paper,2
-mode,absentee_person,6
 mode,advance in person,8079
 mode,affidavit,729
 mode,early,11236
 mode,ed,9790
 mode,election day,63360
-mode,escan,94
-mode,eslate,94
+mode,in person,10359
 mode,machine,729
 mode,mail,9804
 mode,one stop,9162
 mode,provisional,17499
-mode,total,702476
+mode,total,692899
 office,ALL UNOPPOSED CANDIDATES,349
 office,All Unopposed Candidates,5749
-office,Straight Party,5526
+office,Straight Party,5472
 office,Straight Ticket,3288
 office,Straight ticket,20400
 office,UNNOPPOSED CANDIDATES (OUACHITA),24
@@ -12996,7 +12977,7 @@ office,UNOPPOSED INDEPENDENT CANDIDATES,1134
 office,UNOPPOSED PARKIN,12
 office,UNOPPOSED REPUBLICAN CANDIDATES,588
 office,UNOPPOSED WYNNE,20
-office,US Senate,904446
+office,US Senate,905078
 office,Unopposed Candidates,672
 office,Unopposed Constable Candidates,2664
 office,Unopposed Justice of the Peace Candidates,5328
@@ -13008,18 +12989,18 @@ party,NOPTY,16128
 party,OTHER,8064
 party,The People's Party,49
 party,United States Marijuana,275
-party,american delta,12
+party,american delta,89
 party,american party of south carolina,5100
 party,american shopping,741
 party,conservative,5528
-party,constitution,19799
+party,constitution,19718
 party,democrat,1372
-party,democratic,253719
-party,green,48488
+party,democratic,253421
+party,green,48394
 party,independence,8078
-party,independent,25336
+party,independent,25255
 party,independent american,4088
-party,libertarian,106713
+party,libertarian,106576
 party,new alliance,1689
 party,new independent party iowa,3360
 party,nominated by petition,3360
@@ -13027,13 +13008,13 @@ party,non-partisan,209
 party,none,28062
 party,nonpartisan,5697
 party,"pacific green, progressive",1372
-party,reform,15486
-party,republican,172224
+party,reform,15405
+party,republican,171925
 party,unaffiliated,4212
 party,unity party of colorado,3010
-party,women's equality,15401
-party,working families,20064
-party,,228027
+party,women's equality,15320
+party,working families,19983
+party,,229761
 precinct,#1,10
 precinct,#1 Aurelia,12
 precinct,#1 BUTLER FIRE DEPT.,12
@@ -74701,80 +74682,80 @@ precinct,A023,8
 precinct,A024,8
 precinct,A1,24
 precinct,A100,2
-precinct,A101,195
+precinct,A101,197
 precinct,A101 Lee City #1,2
-precinct,A101 Mt. Olivet,6
+precinct,A101 Mt. Olivet,2
 precinct,A101 SANDY HOOK,2
 precinct,A101 Virden #1,2
 precinct,A101-1A,2
 precinct,A102,164
 precinct,A102 Hardwicks Creek #6,2
 precinct,A102-2A,2
-precinct,A102A,9
+precinct,A102A,11
 precinct,A103,134
 precinct,A103-3A,2
-precinct,A103A,7
+precinct,A103A,9
 precinct,A104,112
 precinct,A104-4A,2
-precinct,A104A,9
-precinct,A105,86
+precinct,A104A,11
+precinct,A105,90
 precinct,A105 Hazel Green #2,2
 precinct,A105-5A,2
 precinct,A105A,2
-precinct,A106,61
+precinct,A106,63
 precinct,A106-6A,2
 precinct,A106A,2
-precinct,A107,40
+precinct,A107,43
 precinct,A107-6B,2
-precinct,A107A,7
-precinct,A108,38
-precinct,A108A,8
+precinct,A107A,9
+precinct,A108,41
+precinct,A108A,9
 precinct,A109,24
-precinct,A109A,6
+precinct,A109A,7
 precinct,A110,32
-precinct,A110A,8
-precinct,A111,31
-precinct,A111A,6
+precinct,A110A,9
+precinct,A111,33
+precinct,A111A,7
 precinct,A112,18
 precinct,A112A,9
-precinct,A113,21
-precinct,A113A,6
-precinct,A114,19
-precinct,A114A,6
-precinct,A115,21
+precinct,A113,23
+precinct,A113A,7
+precinct,A114,21
+precinct,A114A,9
+precinct,A115,24
 precinct,A116,16
-precinct,A116A,3
+precinct,A116A,9
 precinct,A117,8
-precinct,A117A,2
-precinct,A118,14
-precinct,A118A,4
-precinct,A119,10
+precinct,A117A,7
+precinct,A118,17
+precinct,A118A,7
+precinct,A119,13
 precinct,A119A,2
 precinct,A120,10
-precinct,A121,14
+precinct,A121,17
 precinct,A122,10
-precinct,A123,11
-precinct,A124,8
-precinct,A125,6
-precinct,A126,8
-precinct,A127,5
-precinct,A128,8
-precinct,A129,5
-precinct,A130,8
-precinct,A131,9
+precinct,A123,13
+precinct,A124,11
+precinct,A125,9
+precinct,A126,11
+precinct,A127,7
+precinct,A128,11
+precinct,A129,7
+precinct,A130,11
+precinct,A131,11
 precinct,A132,6
 precinct,A133,6
 precinct,A133A,2
-precinct,A134,6
-precinct,A135,8
-precinct,A136,8
+precinct,A134,9
+precinct,A135,11
+precinct,A136,11
 precinct,A137,4
 precinct,A138,6
-precinct,A139,7
-precinct,A140,6
-precinct,A141,4
-precinct,A142,4
-precinct,A143,6
+precinct,A139,9
+precinct,A140,9
+precinct,A141,7
+precinct,A142,7
+precinct,A143,9
 precinct,A144,4
 precinct,A145,4
 precinct,A146,4
@@ -74829,38 +74810,38 @@ precinct,A199,2
 precinct,A2,24
 precinct,A200,2
 precinct,A201,2
-precinct,A203,1
+precinct,A203,2
 precinct,A204,2
 precinct,A3,12
-precinct,A402,12
-precinct,A403,12
-precinct,A405,11
-precinct,A406,10
-precinct,A408,10
-precinct,A409,12
-precinct,A410,10
-precinct,A411,12
-precinct,A412,10
-precinct,A414,10
-precinct,A415,13
-precinct,A418,12
-precinct,A419,10
-precinct,A502,12
-precinct,A503,12
-precinct,A504,11
-precinct,A601,11
-precinct,A602,12
-precinct,A603,12
-precinct,A604,10
-precinct,A605,12
-precinct,A701,10
-precinct,A703,12
-precinct,A801,12
-precinct,A802,12
-precinct,A803,12
-precinct,A804,10
+precinct,A402,7
+precinct,A403,7
+precinct,A405,6
+precinct,A406,6
+precinct,A408,6
+precinct,A409,7
+precinct,A410,6
+precinct,A411,7
+precinct,A412,6
+precinct,A414,6
+precinct,A415,6
+precinct,A418,7
+precinct,A419,6
+precinct,A502,7
+precinct,A503,7
+precinct,A504,6
+precinct,A601,6
+precinct,A602,7
+precinct,A603,7
+precinct,A604,6
+precinct,A605,7
+precinct,A701,6
+precinct,A703,7
+precinct,A801,7
+precinct,A802,7
+precinct,A803,7
+precinct,A804,6
 precinct,AAMOD,19
-precinct,AB,188
+precinct,AB,182
 precinct,AB1,2
 precinct,AB2,6
 precinct,AB4,6
@@ -76163,7 +76144,7 @@ precinct,Abingdon Fire Hall|pplaceid: 10995|pollid: 2790|electdist: 1|prec: 12,1
 precinct,Abner Creek Baptist,13
 precinct,Abraham Baldwin School,7
 precinct,Abs Machine,2
-precinct,Absentee,592
+precinct,Absentee,572
 precinct,Absentee 1,78
 precinct,Absentee 2,169
 precinct,Absentee 23,6
@@ -76824,43 +76805,43 @@ precinct,B1,36
 precinct,B101,178
 precinct,B101 Clay City #5,2
 precinct,B101 Holly #5,2
-precinct,B101 Pinhook,6
+precinct,B101 Pinhook,2
 precinct,B101 SANDY HOOK,2
 precinct,B101-7A,2
-precinct,B101A,8
+precinct,B101A,9
 precinct,B101C,2
 precinct,B102,172
 precinct,B102 Clay City #9,2
 precinct,B102 Stillwater #6,2
 precinct,B102-7B,2
-precinct,B102A,7
+precinct,B102A,9
 precinct,B102C,2
 precinct,B103,140
 precinct,B103-7C,2
-precinct,B103A,11
+precinct,B103A,13
 precinct,B104,102
 precinct,B104-7D,2
-precinct,B104A,6
+precinct,B104A,7
 precinct,B105,68
 precinct,B105-7E,2
-precinct,B105A,7
+precinct,B105A,9
 precinct,B106,46
 precinct,B106 Campton #8,2
 precinct,B106A,11
 precinct,B107,38
-precinct,B107A,6
+precinct,B107A,7
 precinct,B108,36
-precinct,B108A,9
+precinct,B108A,11
 precinct,B109,30
-precinct,B109A,8
+precinct,B109A,9
 precinct,B110,20
-precinct,B110A,8
+precinct,B110A,9
 precinct,B111,16
-precinct,B111A,8
+precinct,B111A,9
 precinct,B112,12
-precinct,B112A,8
+precinct,B112A,9
 precinct,B113,10
-precinct,B113A,7
+precinct,B113A,9
 precinct,B114,8
 precinct,B114A,2
 precinct,B115,6
@@ -76875,7 +76856,7 @@ precinct,B121,8
 precinct,B121A,2
 precinct,B122,6
 precinct,B123,8
-precinct,B124,7
+precinct,B124,9
 precinct,B125,8
 precinct,B126,4
 precinct,B127,6
@@ -76884,55 +76865,55 @@ precinct,B129,8
 precinct,B130,6
 precinct,B131,4
 precinct,B131A,2
-precinct,B132,8
+precinct,B132,11
 precinct,B132A,2
-precinct,B133,9
-precinct,B134,8
+precinct,B133,11
+precinct,B134,11
 precinct,B135,6
 precinct,B136,2
 precinct,B137,4
 precinct,B138,4
-precinct,B139,3
+precinct,B139,4
 precinct,B140,4
 precinct,B141,4
 precinct,B142,4
 precinct,B143,2
 precinct,B146,2
 precinct,B147,2
-precinct,B149,3
+precinct,B149,5
 precinct,B150,2
-precinct,B151,4
+precinct,B151,7
 precinct,B152,2
-precinct,B153,3
-precinct,B154,5
-precinct,B155,5
-precinct,B156,4
-precinct,B157,5
-precinct,B158,5
-precinct,B159,5
-precinct,B160,2
-precinct,B161,2
-precinct,B162,3
-precinct,B163,4
+precinct,B153,5
+precinct,B154,7
+precinct,B155,7
+precinct,B156,7
+precinct,B157,7
+precinct,B158,7
+precinct,B159,7
+precinct,B160,5
+precinct,B161,5
+precinct,B162,5
+precinct,B163,7
 precinct,B164,2
 precinct,B165,2
-precinct,B166,4
+precinct,B166,7
 precinct,B167,2
-precinct,B168,5
-precinct,B169,4
-precinct,B170,4
-precinct,B172,4
-precinct,B173,2
+precinct,B168,7
+precinct,B169,7
+precinct,B170,7
+precinct,B172,7
+precinct,B173,5
 precinct,B174,2
-precinct,B175,3
-precinct,B177,3
+precinct,B175,5
+precinct,B177,5
 precinct,B179,2
-precinct,B181,2
-precinct,B181 - JEF,2
-precinct,B182,4
-precinct,B183,5
-precinct,B184,4
-precinct,B185,4
+precinct,B181,4
+precinct,B181 - JEF,3
+precinct,B182,7
+precinct,B183,7
+precinct,B184,7
+precinct,B185,7
 precinct,B186,2
 precinct,B187,2
 precinct,B188,2
@@ -76979,24 +76960,24 @@ precinct,B231,2
 precinct,B232,2
 precinct,B3,12
 precinct,B4,12
-precinct,B702,12
-precinct,B704,12
-precinct,B705,8
-precinct,B706,10
-precinct,B805,12
-precinct,B806,12
-precinct,B807,10
-precinct,B901,11
-precinct,B902,12
-precinct,B903,12
-precinct,B904,12
-precinct,B905,12
-precinct,B906,10
-precinct,B907,12
-precinct,B909,12
-precinct,B910,10
-precinct,B912,10
-precinct,B913,12
+precinct,B702,7
+precinct,B704,7
+precinct,B705,5
+precinct,B706,6
+precinct,B805,7
+precinct,B806,7
+precinct,B807,6
+precinct,B901,6
+precinct,B902,7
+precinct,B903,7
+precinct,B904,7
+precinct,B905,7
+precinct,B906,6
+precinct,B907,7
+precinct,B909,7
+precinct,B910,6
+precinct,B912,6
+precinct,B913,7
 precinct,BA,12
 precinct,BA0001,4
 precinct,BA0002,4
@@ -79216,7 +79197,7 @@ precinct,Beulah,4
 precinct,Beulah Church,13
 precinct,Beverly 002,2
 precinct,Beverly Hills,13
-precinct,Bewleyville,6
+precinct,Bewleyville,2
 precinct,Bible Baptist Church,5
 precinct,Bicknell,9
 precinct,Bicknell City 1,3
@@ -79514,7 +79495,7 @@ precinct,Bogart,12
 precinct,Bogue City,4
 precinct,Bohemia Manor High/Middle School|pplaceid: 10335|pollid: 2107|electdist: 2|prec: 1,10
 precinct,Bohemia Manor High/Middle School|pplaceid: 10335|pollid: 2108|electdist: 2|prec: 2,10
-precinct,Bohon,6
+precinct,Bohon,2
 precinct,Boiling Springs,13
 precinct,Boiling Springs 9th Grade,13
 precinct,Boiling Springs Elementary,13
@@ -79648,8 +79629,8 @@ precinct,Brandymill 2,13
 precinct,Branford Fire Headquarters,7
 precinct,Brantford Township,4
 precinct,Brantley,12
-precinct,Brasher 1,45
-precinct,Brasher 2,45
+precinct,Brasher 1,36
+precinct,Brasher 2,36
 precinct,Bray,12
 precinct,Brazilton,4
 precinct,Breckenridge,20
@@ -80297,46 +80278,46 @@ precinct,C036,8
 precinct,C037,8
 precinct,C038,8
 precinct,C1,24
-precinct,C101,185
+precinct,C101,182
 precinct,C101 Campton #3,2
-precinct,C101 Kentontown,6
+precinct,C101 Kentontown,2
 precinct,C101 Stanton #2,2
 precinct,C101 WALNUT GROVE,2
 precinct,C101-1C,2
-precinct,C101A,7
+precinct,C101A,9
 precinct,C101AB,2
-precinct,C102,186
+precinct,C102,184
 precinct,C102 Rogers #4,2
 precinct,C102 Stanton #7,2
 precinct,C102-2C,2
-precinct,C102A,10
-precinct,C103,154
+precinct,C102A,11
+precinct,C103,152
 precinct,C103-3C,2
-precinct,C103A,6
+precinct,C103A,7
 precinct,C103B,2
-precinct,C104,107
+precinct,C104,109
 precinct,C104 Campton #7,2
 precinct,C104-4C,2
-precinct,C104A,6
+precinct,C104A,7
 precinct,C104B,2
-precinct,C105,64
+precinct,C105,67
 precinct,C105-5C,2
-precinct,C105A,8
-precinct,C106,53
-precinct,C106A,10
+precinct,C105A,9
+precinct,C106,55
+precinct,C106A,11
 precinct,C107,36
-precinct,C107A,10
-precinct,C108,44
-precinct,C109,32
-precinct,C109A,7
-precinct,C110,38
-precinct,C110A,8
-precinct,C111,29
+precinct,C107A,11
+precinct,C108,48
+precinct,C109,35
+precinct,C109A,13
+precinct,C110,41
+precinct,C110A,9
+precinct,C111,32
 precinct,C111A,2
-precinct,C112,26
-precinct,C113,18
+precinct,C112,27
+precinct,C113,21
 precinct,C114,16
-precinct,C115,11
+precinct,C115,13
 precinct,C116,6
 precinct,C117,6
 precinct,C118,6
@@ -80346,38 +80327,39 @@ precinct,C120,2
 precinct,C120A,2
 precinct,C121,6
 precinct,C121A,2
-precinct,C122,4
+precinct,C122,7
 precinct,C122A,2
-precinct,C123,4
+precinct,C123,7
 precinct,C123A,2
-precinct,C124,9
-precinct,C125,9
+precinct,C124,11
+precinct,C125,11
 precinct,C125A,2
-precinct,C126,7
+precinct,C126,9
 precinct,C127,6
-precinct,C128,10
-precinct,C129,6
-precinct,C130,8
-precinct,C131,7
+precinct,C128,13
+precinct,C129,9
+precinct,C130,11
+precinct,C131,9
 precinct,C132,4
-precinct,C133,7
-precinct,C134,7
-precinct,C135,6
-precinct,C136,6
-precinct,C137,8
-precinct,C138,6
-precinct,C139,4
+precinct,C133,9
+precinct,C134,9
+precinct,C135,9
+precinct,C136,9
+precinct,C137,11
+precinct,C138,9
+precinct,C139,7
 precinct,C140,4
-precinct,C141,5
-precinct,C142,5
-precinct,C143,4
-precinct,C144,4
-precinct,C145,2
-precinct,C147,1
-precinct,C148,4
-precinct,C149,2
-precinct,C150,4
-precinct,C151,4
+precinct,C141,7
+precinct,C142,9
+precinct,C143,9
+precinct,C144,7
+precinct,C145,5
+precinct,C146,5
+precinct,C147,5
+precinct,C148,7
+precinct,C149,5
+precinct,C150,7
+precinct,C151,7
 precinct,C152,2
 precinct,C153,2
 precinct,C154,2
@@ -80422,10 +80404,10 @@ precinct,C198,2
 precinct,C199,2
 precinct,C2,24
 precinct,C200,2
-precinct,C201,14
-precinct,C202,10
-precinct,C203,14
-precinct,C204,14
+precinct,C201,9
+precinct,C202,6
+precinct,C203,9
+precinct,C204,7
 precinct,C205,2
 precinct,C207,2
 precinct,C208,2
@@ -80458,20 +80440,20 @@ precinct,C236,2
 precinct,C237,2
 precinct,C238,2
 precinct,C239,2
-precinct,C301,13
-precinct,C302,12
-precinct,C303,12
-precinct,C304,10
-precinct,C305,11
-precinct,C306,8
-precinct,C307,12
-precinct,C308,10
-precinct,C309,12
-precinct,C310,14
-precinct,C311,12
-precinct,C401,12
-precinct,C416,12
-precinct,C501,14
+precinct,C301,8
+precinct,C302,7
+precinct,C303,7
+precinct,C304,6
+precinct,C305,6
+precinct,C306,5
+precinct,C307,7
+precinct,C308,6
+precinct,C309,7
+precinct,C310,7
+precinct,C311,7
+precinct,C401,7
+precinct,C416,7
+precinct,C501,7
 precinct,CA,24
 precinct,CA 01,9
 precinct,CA 02,9
@@ -86052,14 +86034,14 @@ precinct,Canteen 8,5
 precinct,Canteen 9,5
 precinct,Canterbury,5
 precinct,Canterbury Town Hall,7
-precinct,Canton 1,45
-precinct,Canton 2,45
-precinct,Canton 3,45
-precinct,Canton 4,45
-precinct,Canton 5,45
-precinct,Canton 6,45
-precinct,Canton 7,45
-precinct,Canton 8,45
+precinct,Canton 1,36
+precinct,Canton 2,36
+precinct,Canton 3,36
+precinct,Canton 4,36
+precinct,Canton 5,36
+precinct,Canton 6,36
+precinct,Canton 7,36
+precinct,Canton 8,36
 precinct,Canton Baptist Church|pplaceid: 11397|pollid: 3215|electdist: 26|prec: 8,10
 precinct,Canton High School,7
 precinct,Canton Township,8
@@ -86459,7 +86441,7 @@ precinct,Challis,3
 precinct,Chamberlain Highway Firehouse,7
 precinct,Chamberlain School,7
 precinct,Chambers,2
-precinct,Chambers House,6
+precinct,Chambers House,2
 precinct,Chambersville,16
 precinct,Chambersville West,16
 precinct,Chambliss,12
@@ -87491,7 +87473,7 @@ precinct,Civic Center,25
 precinct,Clacks Chapel,12
 precinct,Claquato,2
 precinct,Clara Barton Community Center|pplaceid: 13940|pollid: 2356|electdist: 7|prec: 3,10
-precinct,Clare 1,45
+precinct,Clare 1,36
 precinct,Claremont Fire Station,2
 precinct,Clarence Rogers School 01,7
 precinct,Clarence Township,4
@@ -87733,8 +87715,8 @@ precinct,Cleveland Township,12
 precinct,Clifdale Elementary,13
 precinct,Clifford Township,4
 precinct,Clifton #7,3
-precinct,Clifton 1,45
-precinct,Clifton 2,45
+precinct,Clifton 1,36
+precinct,Clifton 2,36
 precinct,Clifton Park 01,10
 precinct,Clifton Park 02,10
 precinct,Clifton Park 03,10
@@ -87803,8 +87785,8 @@ precinct,Clover,13
 precinct,Cloverdale,2
 precinct,Cloverdale 006,7
 precinct,Cloverly Elementary School|pplaceid: 10534|pollid: 2316|electdist: 5|prec: 15,10
-precinct,Cloverport 1,6
-precinct,Cloverport 2,6
+precinct,Cloverport 1,2
+precinct,Cloverport 2,2
 precinct,Clyattville,12
 precinct,Clyde 39,2
 precinct,Clymer,9
@@ -87908,7 +87890,7 @@ precinct,Colony,12
 precinct,Colorado Township,4
 precinct,Colquitt-Miller,12
 precinct,Colt,15
-precinct,Colton 1,45
+precinct,Colton 1,36
 precinct,Columbia,16
 precinct,Columbia American Legion,2
 precinct,Columbia Heights,2
@@ -88100,7 +88082,7 @@ precinct,Corning Town 3,13
 precinct,Corning Town 4,13
 precinct,Corning Town 5,13
 precinct,Cornish,8
-precinct,Cornishville,6
+precinct,Cornishville,2
 precinct,Cornwall 01,9
 precinct,Cornwall 02,9
 precinct,Cornwall 03,9
@@ -88163,7 +88145,7 @@ precinct,County South 43.1,4
 precinct,County South 44,4
 precinct,County South 44.1,4
 precinct,Court House,12
-precinct,Courthouse,54
+precinct,Courthouse,50
 precinct,Courthouse Annex,12
 precinct,Courthouse Community Room,2
 precinct,Courthouse Courtroom - Pct 7,12
@@ -88178,7 +88160,7 @@ precinct,Coventry Grammer School,7
 precinct,Covert Township,4
 precinct,Covington 1,9
 precinct,Covington Mills,12
-precinct,Cow Creek,6
+precinct,Cow Creek,2
 precinct,Cowlitz,2
 precinct,Cowpens Depot Museum,13
 precinct,Cowpens Fire Station,13
@@ -88304,6 +88286,7 @@ precinct,Culdesac 31,3
 precinct,Culver Township,4
 precinct,Cumming/WDM,12
 precinct,Cummings,13
+precinct,Cumulative:,2
 precinct,Cunningham,14
 precinct,Cunningham 1,4
 precinct,Cunningham 10,4
@@ -88333,7 +88316,7 @@ precinct,Curtis,2
 precinct,Curtis Bay Recreation Center|pplaceid: 11427|pollid: 3249|electdist: 25|prec: 16,10
 precinct,Cushman/Union,12
 precinct,Cusick,2
-precinct,Custer,6
+precinct,Custer,2
 precinct,Custer Township,8
 precinct,Cuthbert,12
 precinct,Cuthbert/Courthouse,12
@@ -88384,69 +88367,74 @@ precinct,D027,2
 precinct,D028,2
 precinct,D029,2
 precinct,D1,12
-precinct,D101,138
+precinct,D101,140
 precinct,D101 - STM,3
-precinct,D101 Burika,6
+precinct,D101 Burika,2
 precinct,D101 MOCASSIN A,2
 precinct,D101 Rosslyn #3,2
 precinct,D101-1D,2
 precinct,D101A,2
-precinct,D101D,6
+precinct,D101D,7
 precinct,D102,134
 precinct,D102 South Fork #4,2
 precinct,D102-2D,2
 precinct,D102A,2
-precinct,D102C,6
-precinct,D103,118
+precinct,D102C,7
+precinct,D103,119
 precinct,D103 Slade #11,2
 precinct,D103-3D,2
 precinct,D103A,2
-precinct,D104,80
+precinct,D104,83
 precinct,D104-4D,2
 precinct,D104A,2
-precinct,D104E,5
-precinct,D105,54
+precinct,D104E,7
+precinct,D105,55
 precinct,D105-5D,2
 precinct,D105A,2
-precinct,D106,51
+precinct,D106,56
 precinct,D106-6D,2
 precinct,D106A,4
-precinct,D107,27
+precinct,D107,29
 precinct,D107-7D,2
 precinct,D107A,2
-precinct,D108,23
+precinct,D108,26
 precinct,D108A,2
-precinct,D109,18
+precinct,D109,22
 precinct,D109A,4
-precinct,D110,20
+precinct,D110,24
 precinct,D111,10
-precinct,D111A,7
-precinct,D112,8
-precinct,D113,16
-precinct,D114,10
-precinct,D115,6
-precinct,D116,5
+precinct,D111A,9
+precinct,D112,9
+precinct,D113,20
+precinct,D114,14
+precinct,D115,9
+precinct,D116,12
+precinct,D117,2
 precinct,D117 - JEF,3
 precinct,D119,2
-precinct,D120 - JEF,2
-precinct,D121,4
+precinct,D120,2
+precinct,D120 - JEF,3
+precinct,D121,7
+precinct,D122,2
 precinct,D122 - JEF,3
 precinct,D123,2
-precinct,D126,2
-precinct,D129,2
-precinct,D130,3
-precinct,D131,2
-precinct,D132,2
-precinct,D135,3
-precinct,D136,2
+precinct,D126,5
+precinct,D129,5
+precinct,D130,5
+precinct,D131,5
+precinct,D132,5
+precinct,D135,5
+precinct,D136,5
+precinct,D137,2
 precinct,D137 - JEF,3
-precinct,D138,2
-precinct,D139,3
-precinct,D140,3
-precinct,D141,3
-precinct,D142 - JEF,2
-precinct,D144,2
-precinct,D145,2
+precinct,D138,5
+precinct,D139,5
+precinct,D140,5
+precinct,D141,5
+precinct,D142,2
+precinct,D142 - JEF,3
+precinct,D144,5
+precinct,D145,5
 precinct,D2,12
 precinct,DA,12
 precinct,DACULA,12
@@ -89543,9 +89531,9 @@ precinct,De Soto 0-06,4
 precinct,De Soto 0-07,4
 precinct,De Soto 0-08,4
 precinct,De Soto 0-09,4
-precinct,DeKalb 1,65
-precinct,DeKalb 2,65
-precinct,DePeyster 1,45
+precinct,DeKalb 1,56
+precinct,DeKalb 2,56
+precinct,DePeyster 1,36
 precinct,DeRoche,16
 precinct,DeWitt 01,9
 precinct,DeWitt 02,9
@@ -89904,7 +89892,7 @@ precinct,Dix's Grant,2
 precinct,Dixie,12
 precinct,Dixie 41,2
 precinct,Dixon,3
-precinct,Dixville,10
+precinct,Dixville,6
 precinct,Dobbins 01,12
 precinct,Doby's Mill,13
 precinct,Dobys Bridge,13
@@ -90152,7 +90140,7 @@ precinct,Dummer,4
 precinct,Dunbar Hill School,7
 precinct,Dunbar School,7
 precinct,Dunbarton,5
-precinct,Duncan,6
+precinct,Duncan,2
 precinct,Duncan Township,25
 precinct,Duncan United Methodist,13
 precinct,Duncanville,12
@@ -90249,37 +90237,37 @@ precinct,E034,10
 precinct,E035,2
 precinct,E036,2
 precinct,E1,12
-precinct,E101,101
+precinct,E101,103
 precinct,E101 CRACKERSNECK,2
-precinct,E101 Mt. Olivet,6
+precinct,E101 Mt. Olivet,2
 precinct,E101 Stanton #8,2
 precinct,E101-1E,2
-precinct,E102,86
+precinct,E102,87
 precinct,E102 Stanton #10,2
 precinct,E102-2E,2
-precinct,E103,72
+precinct,E103,73
 precinct,E103-3E,2
-precinct,E104,53
+precinct,E104,55
 precinct,E104-4E,2
-precinct,E105,40
+precinct,E105,41
 precinct,E105-5E,2
 precinct,E105A,2
-precinct,E106,24
+precinct,E106,25
 precinct,E106-6E,2
 precinct,E106A,2
-precinct,E107,16
+precinct,E107,17
 precinct,E107-7E,2
 precinct,E107A,2
-precinct,E108,13
+precinct,E108,15
 precinct,E108A,4
-precinct,E109,10
+precinct,E109,11
 precinct,E109A,4
 precinct,E110,2
 precinct,E110A,11
 precinct,E111,2
-precinct,E111A,7
+precinct,E111A,9
 precinct,E112,2
-precinct,E112A,8
+precinct,E112A,9
 precinct,E113A,2
 precinct,E118,2
 precinct,E120,2
@@ -90287,41 +90275,56 @@ precinct,E122,2
 precinct,E124,2
 precinct,E126,2
 precinct,E128,2
+precinct,E139,2
 precinct,E139 - STM,3
-precinct,E141 - BWV,2
-precinct,E142,2
-precinct,E143 - STM,2
-precinct,E144,3
+precinct,E141,2
+precinct,E141 - BWV,3
+precinct,E142,5
+precinct,E143,2
+precinct,E143 - STM,3
+precinct,E144,5
+precinct,E145,2
 precinct,E145 - LYN,3
-precinct,E148,3
-precinct,E152,2
-precinct,E154,3
-precinct,E155,2
-precinct,E157 - NOR,2
-precinct,E158,2
-precinct,E159,3
-precinct,E160,3
-precinct,E161 - HUB,2
-precinct,E162,2
-precinct,E163 - HUB,2
-precinct,E164 - HUB,2
-precinct,E165,3
-precinct,E166 - JEF,2
-precinct,E167,3
-precinct,E168 - HUB,2
-precinct,E169,2
-precinct,E171,3
-precinct,E173,3
-precinct,E175 - GRD,2
+precinct,E148,5
+precinct,E152,5
+precinct,E154,5
+precinct,E155,5
+precinct,E157,2
+precinct,E157 - NOR,3
+precinct,E158,5
+precinct,E159,5
+precinct,E160,5
+precinct,E161,2
+precinct,E161 - HUB,3
+precinct,E162,5
+precinct,E163,2
+precinct,E163 - HUB,3
+precinct,E164,2
+precinct,E164 - HUB,3
+precinct,E165,5
+precinct,E166,2
+precinct,E166 - JEF,3
+precinct,E167,5
+precinct,E168,2
+precinct,E168 - HUB,3
+precinct,E169,5
+precinct,E171,5
+precinct,E173,5
+precinct,E175,2
+precinct,E175 - GRD,3
+precinct,E176,2
 precinct,E176 - LYN,3
-precinct,E177,2
-precinct,E178,2
-precinct,E179 - JEF,2
-precinct,E180 - JEF,2
-precinct,E181,2
-precinct,E182,2
-precinct,E183,2
-precinct,E184,3
+precinct,E177,5
+precinct,E178,5
+precinct,E179,2
+precinct,E179 - JEF,3
+precinct,E180,2
+precinct,E180 - JEF,3
+precinct,E181,5
+precinct,E182,5
+precinct,E183,5
+precinct,E184,5
+precinct,E185,2
 precinct,E185 - STM,3
 precinct,E2,12
 precinct,EA,16
@@ -91434,7 +91437,7 @@ precinct,Edna/Victoria Twp,12
 precinct,Edward B Pope Center,12
 precinct,Edward D Bergin Apartments,7
 precinct,Edward F. Fry Library at Point of Rocks|pplaceid: 14654|pollid: 5245|electdist: 1|prec: 3,10
-precinct,Edwards 1,45
+precinct,Edwards 1,36
 precinct,Eel E,3
 precinct,Eel W,3
 precinct,Effingham,4
@@ -91537,7 +91540,7 @@ precinct,Elk,2
 precinct,Elk Creek Township,4
 precinct,Elk Crk,2
 precinct,Elk Falls Township,4
-precinct,Elk Lick,6
+precinct,Elk Lick,2
 precinct,Elk Neck Elementary School|pplaceid: 12769|pollid: 3628|electdist: 5|prec: 3,10
 precinct,Elk Ridge(*),2
 precinct,Elk Run Heights Raymond,12
@@ -91881,32 +91884,32 @@ precinct,F043,2
 precinct,F101,56
 precinct,F101 BRUIN,2
 precinct,F101-1F,2
-precinct,F101B,5
-precinct,F102,54
+precinct,F101B,7
+precinct,F102,55
 precinct,F102-2F,2
 precinct,F102A,2
-precinct,F103,47
+precinct,F103,49
 precinct,F103-3F,2
-precinct,F104,32
+precinct,F104,33
 precinct,F104-4F,2
 precinct,F104A,2
-precinct,F105,26
+precinct,F105,27
 precinct,F105-5F,2
 precinct,F105A,2
-precinct,F106,22
-precinct,F107,9
-precinct,F108,12
-precinct,F109,8
-precinct,F110,6
-precinct,F111,5
-precinct,F112,6
-precinct,F113,6
+precinct,F106,26
+precinct,F107,11
+precinct,F108,13
+precinct,F109,9
+precinct,F110,7
+precinct,F111,7
+precinct,F112,7
+precinct,F113,7
 precinct,F114,7
-precinct,F115A,5
-precinct,F116A,1
+precinct,F115A,7
+precinct,F116A,7
 precinct,F117,2
-precinct,F117A,6
-precinct,F118,5
+precinct,F117A,7
+precinct,F118,7
 precinct,F119,2
 precinct,F121,2
 precinct,F123,2
@@ -91914,33 +91917,38 @@ precinct,F125,2
 precinct,F127,2
 precinct,F129,2
 precinct,F131,2
-precinct,F145,3
-precinct,F151,3
-precinct,F152,2
-precinct,F153,3
-precinct,F154,3
-precinct,F155,2
-precinct,F156,3
-precinct,F158 - MID,2
-precinct,F161 - DOH,2
-precinct,F163,2
-precinct,F164,2
-precinct,F166,3
-precinct,F167,3
-precinct,F169,3
+precinct,F145,5
+precinct,F151,5
+precinct,F152,5
+precinct,F153,5
+precinct,F154,5
+precinct,F155,5
+precinct,F156,5
+precinct,F158,2
+precinct,F158 - MID,3
+precinct,F161,2
+precinct,F161 - DOH,3
+precinct,F163,5
+precinct,F164,5
+precinct,F166,5
+precinct,F167,5
+precinct,F169,5
+precinct,F170,2
 precinct,F170 - DOH,3
-precinct,F171,3
-precinct,F172,2
-precinct,F176,2
+precinct,F171,5
+precinct,F172,5
+precinct,F176,5
+precinct,F179,2
 precinct,F179 - LYN,3
+precinct,F180,2
 precinct,F180 - LYN,3
-precinct,F181,3
-precinct,F182,2
-precinct,F183,3
-precinct,F184,2
-precinct,F185,2
-precinct,F186,3
-precinct,F187,2
+precinct,F181,5
+precinct,F182,5
+precinct,F183,5
+precinct,F184,5
+precinct,F185,5
+precinct,F186,5
+precinct,F187,5
 precinct,FA01A,12
 precinct,FA01B,12
 precinct,FABIUS/SMILEYVILLE,4
@@ -93223,7 +93231,7 @@ precinct,Filer 1,3
 precinct,Filer 2,3
 precinct,Filer 3,3
 precinct,Fillmore / Greene,12
-precinct,Fine 1,45
+precinct,Fine 1,36
 precinct,Finley,2
 precinct,Finley Township,4
 precinct,Fire Dept,12
@@ -93431,8 +93439,8 @@ precinct,Fourth A,3
 precinct,Fourth B,3
 precinct,Fourth C,3
 precinct,Fourth D,3
-precinct,Fowler 1,45
-precinct,Fowler 2,45
+precinct,Fowler 1,36
+precinct,Fowler 2,36
 precinct,Fowler Township,4
 precinct,Fox,20
 precinct,Fox Bank,13
@@ -93659,69 +93667,77 @@ precinct,G10,12
 precinct,G101,24
 precinct,G101 ISONVILLE,2
 precinct,G102,20
-precinct,G103,16
-precinct,G104,11
+precinct,G103,19
+precinct,G104,13
 precinct,G105,6
-precinct,G106,6
-precinct,G107,3
-precinct,G108,3
-precinct,G109,3
+precinct,G106,9
+precinct,G107,5
+precinct,G108,5
+precinct,G109,5
 precinct,G10A,12
 precinct,G10B,12
 precinct,G10C,12
 precinct,G11,12
-precinct,G111,3
-precinct,G112,3
-precinct,G116,2
-precinct,G117,2
-precinct,G119,3
+precinct,G111,5
+precinct,G112,5
+precinct,G116,5
+precinct,G117,5
+precinct,G119,5
 precinct,G11A-1,12
 precinct,G11A-2,12
 precinct,G11B,12
 precinct,G12,12
-precinct,G120,2
-precinct,G121,2
-precinct,G122,2
+precinct,G120,5
+precinct,G121,5
+precinct,G122,5
+precinct,G123,2
 precinct,G123 - SMM,3
-precinct,G124,2
-precinct,G126,2
+precinct,G124,5
+precinct,G126,5
 precinct,G128,2
-precinct,G129,2
+precinct,G129,5
 precinct,G13,12
 precinct,G130,2
 precinct,G132,2
 precinct,G134,2
 precinct,G136,2
+precinct,G138,2
 precinct,G14,12
-precinct,G140,2
-precinct,G141,2
-precinct,G142,2
-precinct,G143,2
-precinct,G144,2
-precinct,G145,2
-precinct,G146,3
-precinct,G147,2
-precinct,G148,2
-precinct,G149 - WEL,2
+precinct,G140,5
+precinct,G141,5
+precinct,G142,5
+precinct,G143,5
+precinct,G144,5
+precinct,G145,5
+precinct,G146,5
+precinct,G147,5
+precinct,G148,5
+precinct,G149,2
+precinct,G149 - WEL,3
 precinct,G15,12
-precinct,G150,2
-precinct,G151,2
-precinct,G154,3
-precinct,G155,3
-precinct,G156,2
-precinct,G157,3
-precinct,G158,2
+precinct,G150,5
+precinct,G151,5
+precinct,G154,5
+precinct,G155,5
+precinct,G156,5
+precinct,G157,5
+precinct,G158,5
+precinct,G159,5
 precinct,G16,12
-precinct,G160,2
-precinct,G161 - SNG,2
-precinct,G162,2
-precinct,G163 - STM,2
+precinct,G160,5
+precinct,G161,2
+precinct,G161 - SNG,3
+precinct,G162,5
+precinct,G163,2
+precinct,G163 - STM,3
+precinct,G164,2
 precinct,G164 - STM,3
+precinct,G165,2
 precinct,G165 - STM,3
-precinct,G166,2
-precinct,G167,2
-precinct,G168 - STM,3
-precinct,G169,2
+precinct,G166,5
+precinct,G167,5
+precinct,G168 - STM,5
+precinct,G169,5
 precinct,G17,12
 precinct,G18,12
 precinct,G19,12
@@ -95039,7 +95055,7 @@ precinct,Gardner Twp 0-10,4
 precinct,Gardner Twp 0-11,4
 precinct,Gardner Twp 0-12,4
 precinct,Gardner Twp 0-13,4
-precinct,Garfield,18
+precinct,Garfield,14
 precinct,Garfield 09,2
 precinct,Garfield 1,5
 precinct,Garfield Township,40
@@ -95230,7 +95246,7 @@ precinct,Glen 1,18
 precinct,Glen 2,18
 precinct,Glen Burnie Park Elementary School|pplaceid: 10076|pollid: 1790|electdist: 2|prec: 3,10
 precinct,Glen Burnie Regional Library|pplaceid: 12970|pollid: 1753|electdist: 2|prec: 12,10
-precinct,Glen Dean,6
+precinct,Glen Dean,2
 precinct,Glen Elder City,4
 precinct,Glen Elder Township,4
 precinct,Glen Haven Elementary School|pplaceid: 13868|pollid: 4178|electdist: 13|prec: 32,10
@@ -95344,10 +95360,10 @@ precinct,Gould,20
 precinct,Gould City W1,20
 precinct,Gould City W2,20
 precinct,Gould City W3,20
-precinct,Gouverneur 1,45
-precinct,Gouverneur 2,45
-precinct,Gouverneur 3,45
-precinct,Gouverneur 4,45
+precinct,Gouverneur 1,36
+precinct,Gouverneur 2,36
+precinct,Gouverneur 3,36
+precinct,Gouverneur 4,36
 precinct,Govans Boundary United Methodist Church|pplaceid: 11431|pollid: 3257|electdist: 27|prec: 38,10
 precinct,Gove Township,4
 precinct,Gowrie,12
@@ -95788,58 +95804,65 @@ precinct,H1-15,3
 precinct,H1-16,3
 precinct,H10,24
 precinct,H101,16
-precinct,H102,14
-precinct,H103,12
+precinct,H102,17
+precinct,H103,15
 precinct,H104,8
-precinct,H105,6
-precinct,H106,7
+precinct,H105,9
+precinct,H106,9
 precinct,H107,2
 precinct,H108,2
-precinct,H109,2
+precinct,H109,4
 precinct,H109 - PKV,3
 precinct,H11,24
-precinct,H110,5
-precinct,H111,5
-precinct,H112,5
-precinct,H113,4
-precinct,H114,4
-precinct,H115,4
-precinct,H116,4
-precinct,H117,2
-precinct,H117 - APK,2
-precinct,H118,2
+precinct,H110,7
+precinct,H111,7
+precinct,H112,7
+precinct,H113,7
+precinct,H114,7
+precinct,H115,7
+precinct,H116,7
+precinct,H117,4
+precinct,H117 - APK,3
+precinct,H118,5
 precinct,H12,24
-precinct,H120,3
-precinct,H121,3
-precinct,H123,2
-precinct,H124,2
-precinct,H125,2
+precinct,H120,5
+precinct,H121,5
+precinct,H123,5
+precinct,H124,5
+precinct,H125,5
+precinct,H126,2
 precinct,H126 - LNV,3
-precinct,H127,2
+precinct,H127,5
 precinct,H13,24
-precinct,H131,3
-precinct,H132,2
-precinct,H133,2
-precinct,H138,2
+precinct,H130,5
+precinct,H131,5
+precinct,H132,5
+precinct,H133,5
+precinct,H138,5
 precinct,H14,12
-precinct,H141,2
-precinct,H144,3
-precinct,H145,2
-precinct,H146,3
-precinct,H147,2
-precinct,H148,3
+precinct,H141,5
+precinct,H144,5
+precinct,H145,5
+precinct,H146,5
+precinct,H147,5
+precinct,H148,5
 precinct,H15,12
-precinct,H150 - WAP,1
-precinct,H151 - WAP,1
-precinct,H152,3
-precinct,H154,2
-precinct,H155,2
-precinct,H157,2
-precinct,H159,2
+precinct,H150,2
+precinct,H150 - WAP,3
+precinct,H151,2
+precinct,H151 - WAP,3
+precinct,H152,5
+precinct,H153,5
+precinct,H154,5
+precinct,H155,5
+precinct,H156,5
+precinct,H157,5
+precinct,H158,5
+precinct,H159,5
 precinct,H16,12
-precinct,H160,3
-precinct,H161,1
-precinct,H162,2
+precinct,H160,5
+precinct,H161,5
+precinct,H162,5
 precinct,H17,12
 precinct,H18,12
 precinct,H19A,12
@@ -97970,7 +97993,7 @@ precinct,Hamlin 8,10
 precinct,Hamlin 9,10
 precinct,Hamlin Township,4
 precinct,Hammett,3
-precinct,Hammond 1,45
+precinct,Hammond 1,36
 precinct,Hammond Annex,13
 precinct,Hammond High School Cafeteria|pplaceid: 13602|pollid: 2230|electdist: 6|prec: 23,10
 precinct,Hammond High School Cafeteria|pplaceid: 13602|pollid: 2247|electdist: 6|prec: 18,10
@@ -98046,8 +98069,8 @@ precinct,Hardenburgh 1,10
 precinct,Hardenburgh 2,10
 precinct,Hardin/Ellis/Jackson,12
 precinct,Harding High School,7
-precinct,Hardinsburg 1,6
-precinct,Hardinsburg 2,6
+precinct,Hardinsburg 1,2
+precinct,Hardinsburg 2,2
 precinct,Hardy,20
 precinct,Harford,9
 precinct,Harford Center for Senior Citizens|pplaceid: 11378|pollid: 3194|electdist: 27|prec: 4,10
@@ -98070,7 +98093,7 @@ precinct,Harmony 1,9
 precinct,Harmony 2,9
 precinct,Harmony Leland 01,12
 precinct,Harmony Township,4
-precinct,Harned,6
+precinct,Harned,2
 precinct,Harper,28
 precinct,Harper Township,4
 precinct,Harper Ward 1,4
@@ -98332,7 +98355,7 @@ precinct,Herl Township South,4
 precinct,Herman-Winfred,2
 precinct,Hermitage City,25
 precinct,Hermitage Rural,25
-precinct,Hermon 1,45
+precinct,Hermon 1,36
 precinct,Herndon City,4
 precinct,Hernwood Elementary School Cafeteria|pplaceid: 13017|pollid: 2025|electdist: 2|prec: 18,10
 precinct,Hernwood Elementary School Cafeteria|pplaceid: 13017|pollid: 3650|electdist: 2|prec: 22,10
@@ -98549,7 +98572,7 @@ precinct,Hopewell,71
 precinct,Hopkins 1,13
 precinct,Hopkins 2,13
 precinct,Hopkinton,5
-precinct,Hopkinton 1,45
+precinct,Hopkinton 1,36
 precinct,Hopper,12
 precinct,Hoquiam 411,2
 precinct,Hoquiam 421,2
@@ -98609,7 +98632,7 @@ precinct,Hub,12
 precinct,Hubbard School,7
 precinct,Huckleberry Hill School,7
 precinct,Hudgin,16
-precinct,Hudson,25
+precinct,Hudson,21
 precinct,Hudson 1-1,20
 precinct,Hudson 2-1,20
 precinct,Hudson 3-1,20
@@ -98905,38 +98928,39 @@ precinct,Hyrum 03,4
 precinct,Hyrum 04,4
 precinct,Hyrum 05,4
 precinct,I,12
-precinct,I107,3
-precinct,I109,3
-precinct,I110,2
-precinct,I111,3
-precinct,I112,2
-precinct,I115,2
-precinct,I120,2
-precinct,I122,2
-precinct,I123,3
-precinct,I124,2
-precinct,I125,2
-precinct,I126,2
-precinct,I130,2
-precinct,I133,3
-precinct,I135,2
-precinct,I138,1
-precinct,I140,2
-precinct,I141,3
-precinct,I142,1
-precinct,I143,2
-precinct,I144,2
-precinct,I145,2
-precinct,I146,3
-precinct,I147,2
-precinct,I148,2
-precinct,I150,2
-precinct,I151,2
-precinct,I152,3
-precinct,I153,3
-precinct,I154,3
-precinct,I155,2
-precinct,I156,3
+precinct,I107,5
+precinct,I109,5
+precinct,I110,5
+precinct,I111,5
+precinct,I112,5
+precinct,I115,5
+precinct,I120,5
+precinct,I122,5
+precinct,I123,5
+precinct,I124,5
+precinct,I125,5
+precinct,I126,5
+precinct,I130,5
+precinct,I133,5
+precinct,I135,5
+precinct,I138,5
+precinct,I140,5
+precinct,I141,5
+precinct,I142,5
+precinct,I143,5
+precinct,I144,5
+precinct,I145,5
+precinct,I146,5
+precinct,I147,5
+precinct,I148,5
+precinct,I149,5
+precinct,I150,5
+precinct,I151,5
+precinct,I152,5
+precinct,I153,5
+precinct,I154,5
+precinct,I155,5
+precinct,I156,5
 precinct,IBA,4
 precinct,IBERIA,5
 precinct,IBSP,12
@@ -99125,7 +99149,7 @@ precinct,Independence Township 2 Part C,4
 precinct,Independent Township,4
 precinct,Index,2
 precinct,India Hook,13
-precinct,Indian Creek,9
+precinct,Indian Creek,5
 precinct,Indian Creek #4,5
 precinct,Indian Creek Township,4
 precinct,Indian Creek/Maxwell,12
@@ -99248,8 +99272,8 @@ precinct,Irving Robbins School - District 1 Precinct 3,7
 precinct,Irving Robbins School - District 1 Precinct 4,7
 precinct,Irving School-105,7
 precinct,Irving Township,4
-precinct,Irvington 1,6
-precinct,Irvington 2,6
+precinct,Irvington 1,2
+precinct,Irvington 2,2
 precinct,Irwin Comm Bldg,12
 precinct,Irwinton,12
 precinct,Irwinville,12
@@ -99257,7 +99281,7 @@ precinct,Isaacs 12,2
 precinct,Isabella,12
 precinct,Isbel Township,4
 precinct,Ischua,9
-precinct,Island Creek,6
+precinct,Island Creek,2
 precinct,Island Improvement Association Building|pplaceid: 10905|pollid: 2687|electdist: 9|prec: 1,10
 precinct,Islip #: 01,10
 precinct,Islip #: 02,10
@@ -99522,37 +99546,39 @@ precinct,J021,8
 precinct,J022,8
 precinct,J023,8
 precinct,J024,8
-precinct,J101,3
-precinct,J104,3
-precinct,J105,2
-precinct,J107,3
-precinct,J108,3
-precinct,J111,2
-precinct,J113,3
-precinct,J114,2
-precinct,J117,3
-precinct,J119,2
-precinct,J120,2
-precinct,J122,2
-precinct,J123,2
-precinct,J130,2
-precinct,J135,3
-precinct,J137,3
-precinct,J138,2
-precinct,J140,2
-precinct,J141,2
-precinct,J142,2
-precinct,J143,2
-precinct,J144,2
-precinct,J145,3
-precinct,J147,2
-precinct,J148,3
-precinct,J149,3
-precinct,J150,2
-precinct,J151,2
-precinct,J152,2
-precinct,J153,2
-precinct,J155,2
+precinct,J101,5
+precinct,J104,5
+precinct,J105,5
+precinct,J107,5
+precinct,J108,5
+precinct,J111,5
+precinct,J113,5
+precinct,J114,5
+precinct,J117,5
+precinct,J119,5
+precinct,J120,5
+precinct,J122,5
+precinct,J123,5
+precinct,J130,5
+precinct,J135,5
+precinct,J137,5
+precinct,J138,5
+precinct,J140,5
+precinct,J141,5
+precinct,J142,5
+precinct,J143,5
+precinct,J144,5
+precinct,J145,5
+precinct,J146,5
+precinct,J147,5
+precinct,J148,5
+precinct,J149,5
+precinct,J150,5
+precinct,J151,5
+precinct,J152,5
+precinct,J153,5
+precinct,J154,5
+precinct,J155,5
 precinct,JA01,12
 precinct,JAC,2
 precinct,JACK A,6
@@ -100279,41 +100305,50 @@ precinct,K009,8
 precinct,K010,8
 precinct,K011,8
 precinct,K1,16
-precinct,K104,2
-precinct,K105,3
-precinct,K110,3
-precinct,K111,3
-precinct,K112,2
-precinct,K113,2
-precinct,K114,3
-precinct,K116,2
-precinct,K117,2
-precinct,K118,3
-precinct,K119,2
+precinct,K104,5
+precinct,K105,5
+precinct,K110,5
+precinct,K111,5
+precinct,K112,5
+precinct,K113,5
+precinct,K114,5
+precinct,K116,5
+precinct,K117,5
+precinct,K118,5
+precinct,K119,5
+precinct,K122,2
 precinct,K122 - SHI,3
+precinct,K123,2
 precinct,K123 - SHI,3
-precinct,K125,2
-precinct,K126,2
-precinct,K127,3
-precinct,K128,3
-precinct,K129,3
+precinct,K125,5
+precinct,K126,5
+precinct,K127,5
+precinct,K128,5
+precinct,K129,5
+precinct,K130,2
 precinct,K130 - SHI,3
+precinct,K131,2
 precinct,K131 - SHI,3
-precinct,K132,3
-precinct,K133,2
-precinct,K134,3
-precinct,K135,2
-precinct,K136,2
-precinct,K137,2
-precinct,K138,2
-precinct,K140,2
-precinct,K141,2
-precinct,K144,2
-precinct,K145,3
-precinct,K146,3
-precinct,K147,3
-precinct,K148,2
-precinct,K149,1
+precinct,K132,5
+precinct,K133,5
+precinct,K134,5
+precinct,K135,5
+precinct,K136,5
+precinct,K137,5
+precinct,K138,5
+precinct,K139,5
+precinct,K140,5
+precinct,K141,5
+precinct,K142,5
+precinct,K143,5
+precinct,K144,5
+precinct,K145,5
+precinct,K146,5
+precinct,K147,5
+precinct,K148,5
+precinct,K149,5
+precinct,K150,5
+precinct,K151,5
 precinct,K2,16
 precinct,K3,16
 precinct,K4,16
@@ -100992,46 +101027,48 @@ precinct,L016,8
 precinct,L017,8
 precinct,L018,8
 precinct,L019,8
-precinct,L104,2
-precinct,L108,2
-precinct,L110,2
-precinct,L111,2
-precinct,L112,2
-precinct,L113,3
-precinct,L115,2
-precinct,L117,3
-precinct,L118,3
-precinct,L119,3
-precinct,L134,2
-precinct,L135,2
-precinct,L136,2
-precinct,L138,3
-precinct,L139,2
-precinct,L140,2
-precinct,L141,3
-precinct,L142,2
-precinct,L143,3
-precinct,L144,3
-precinct,L145,2
+precinct,L104,5
+precinct,L108,5
+precinct,L110,5
+precinct,L111,5
+precinct,L112,5
+precinct,L113,5
+precinct,L115,5
+precinct,L117,5
+precinct,L118,5
+precinct,L119,5
+precinct,L134,5
+precinct,L135,5
+precinct,L136,5
+precinct,L138,5
+precinct,L139,5
+precinct,L140,5
+precinct,L141,5
+precinct,L142,5
+precinct,L143,5
+precinct,L144,5
+precinct,L145,5
+precinct,L146,2
 precinct,L146 - STM,3
-precinct,L147,2
-precinct,L148,2
-precinct,L149,2
-precinct,L150,2
-precinct,L151,3
-precinct,L152,2
-precinct,L153 - WLP,2
-precinct,L154,2
-precinct,L155,2
-precinct,L156,2
-precinct,L157,2
-precinct,L158,2
-precinct,L159,2
-precinct,L160,3
-precinct,L161,3
-precinct,L162,1
-precinct,L163,3
-precinct,L164,2
+precinct,L147,5
+precinct,L148,5
+precinct,L149,5
+precinct,L150,5
+precinct,L151,5
+precinct,L152,5
+precinct,L153,2
+precinct,L153 - WLP,3
+precinct,L154,5
+precinct,L155,5
+precinct,L156,5
+precinct,L157,5
+precinct,L158,5
+precinct,L159,5
+precinct,L160,5
+precinct,L161,5
+precinct,L162,5
+precinct,L163,5
+precinct,L164,5
 precinct,LA CONNER,2
 precinct,LA GRANGE FIRE DEPT,5
 precinct,LA MOILLE 1,5
@@ -102512,7 +102549,7 @@ precinct,Laurens 2,9
 precinct,Lava Hot Springs 64,3
 precinct,Lave Creek,20
 precinct,Lavonia,12
-precinct,Lawrence 1,45
+precinct,Lawrence 1,36
 precinct,Lawrence Chapel,13
 precinct,Lawrence Lake,2
 precinct,Lawrence Precinct 01,4
@@ -103249,9 +103286,9 @@ precinct,Linthicum Elementary School|pplaceid: 10061|pollid: 1775|electdist: 1|p
 precinct,Linton A,3
 precinct,Linton Springs Elementary School Cafeteria|pplaceid: 13404|pollid: 2095|electdist: 14|prec: 1,10
 precinct,Lisbon,5
-precinct,Lisbon 1,45
-precinct,Lisbon 2,45
-precinct,Lisbon 3,45
+precinct,Lisbon 1,36
+precinct,Lisbon 2,36
+precinct,Lisbon 3,36
 precinct,Lisbon Elementary School Cafeteria|pplaceid: 13440|pollid: 2260|electdist: 4|prec: 3,10
 precinct,Lisbon Elementary School Gym|pplaceid: 13440|pollid: 4380|electdist: 4|prec: 4,10
 precinct,Lisbon Senior Center,7
@@ -103552,10 +103589,10 @@ precinct,Louisburg Ward 2,4
 precinct,Louisburg Ward 3,4
 precinct,Louisburg Ward 4,4
 precinct,Louisville,12
-precinct,Louisville 1,45
-precinct,Louisville 2,45
-precinct,Louisville 3,45
-precinct,Louisville 4,45
+precinct,Louisville 1,36
+precinct,Louisville 2,36
+precinct,Louisville 3,36
+precinct,Louisville 4,36
 precinct,Louisville Township,4
 precinct,Louvale,12
 precinct,Lov 001,10
@@ -103758,62 +103795,66 @@ precinct,M1001,2
 precinct,M1001A,2
 precinct,M1009,2
 precinct,M1009A,2
-precinct,M102,2
+precinct,M102,5
 precinct,M1020,2
 precinct,M1020A,2
 precinct,M1023,2
 precinct,M1023A,2
-precinct,M103,3
-precinct,M104,3
-precinct,M105,3
+precinct,M103,5
+precinct,M104,5
+precinct,M105,5
 precinct,M1060,2
 precinct,M1060A,2
 precinct,M1065,2
 precinct,M1065A,2
-precinct,M107,2
+precinct,M107,5
 precinct,M1070,2
 precinct,M1070A,2
 precinct,M10A,2
-precinct,M110,3
+precinct,M110,5
 precinct,M1117,2
 precinct,M1117A,2
-precinct,M121,2
-precinct,M123,3
-precinct,M124,3
-precinct,M129,2
-precinct,M130,2
-precinct,M131,2
-precinct,M133,3
-precinct,M137,2
-precinct,M138,2
-precinct,M139,3
-precinct,M140,2
-precinct,M141,2
-precinct,M142,3
-precinct,M143,2
-precinct,M144,3
-precinct,M145,2
-precinct,M146,3
-precinct,M147,2
-precinct,M148,2
-precinct,M149,3
-precinct,M150,2
-precinct,M159,2
+precinct,M121,5
+precinct,M123,5
+precinct,M124,5
+precinct,M129,5
+precinct,M130,5
+precinct,M131,5
+precinct,M133,5
+precinct,M137,5
+precinct,M138,5
+precinct,M139,5
+precinct,M140,5
+precinct,M141,5
+precinct,M142,5
+precinct,M143,5
+precinct,M144,5
+precinct,M145,5
+precinct,M146,5
+precinct,M147,5
+precinct,M148,5
+precinct,M149,5
+precinct,M150,5
+precinct,M159,5
 precinct,M16,2
-precinct,M160,2
-precinct,M162,3
-precinct,M163,2
-precinct,M164,2
-precinct,M166,3
-precinct,M168,2
-precinct,M169,2
+precinct,M160,5
+precinct,M162,5
+precinct,M163,5
+precinct,M164,5
+precinct,M165,5
+precinct,M166,5
+precinct,M167,5
+precinct,M168,5
+precinct,M169,5
 precinct,M16A,2
 precinct,M17,2
-precinct,M170,3
-precinct,M171,2
-precinct,M172,2
-precinct,M173 - SHI,2
-precinct,M174,1
+precinct,M170,5
+precinct,M171,5
+precinct,M172,5
+precinct,M173,2
+precinct,M173 - SHI,3
+precinct,M174,5
+precinct,M175,5
 precinct,M17A,2
 precinct,M18,2
 precinct,M18A,2
@@ -103995,13 +104036,13 @@ precinct,MAGNOLIA ELEMENTARY SCHOOL|pplaceid: 10818|pollid: 2600|electdist: 21|p
 precinct,MAGNOLIA-HARMONY,13
 precinct,MAIL ABSENTEE,6
 precinct,MAIL-IN 3RD A-D,3
-precinct,MAIL-IN 3RD E,2
+precinct,MAIL-IN 3RD E,3
 precinct,MAIL-IN 3RD F-G,3
-precinct,MAIL-IN 3RD H-J,2
+precinct,MAIL-IN 3RD H-J,3
 precinct,MAIL-IN 3RD K-M,3
-precinct,MAIL-IN 3RD NOQV,2
+precinct,MAIL-IN 3RD NOQV,3
 precinct,MAIL-IN 3RD S,3
-precinct,MAIL-IN 4TH,2
+precinct,MAIL-IN 4TH,3
 precinct,MAINEVILLE VILLAGE,6
 precinct,MAKANDA 1,5
 precinct,MAKANDA 2,5
@@ -106132,7 +106173,7 @@ precinct,Mack-Edisto,13
 precinct,Mackay,3
 precinct,Mackrille School,7
 precinct,Macland 01,12
-precinct,Macomb 1,45
+precinct,Macomb 1,36
 precinct,Macon Township,4
 precinct,Madbury,5
 precinct,Madison,81
@@ -106145,7 +106186,7 @@ precinct,Madison Township,8
 precinct,Madison Township H64,4
 precinct,Madison Township H67,4
 precinct,Madray Springs,12
-precinct,Madrid 1,45
+precinct,Madrid 1,36
 precinct,Madrid 1st Ward - MD1,12
 precinct,Madrid 2nd Ward - MD2,12
 precinct,Madrid 3rd Ward,12
@@ -106527,14 +106568,14 @@ precinct,Mason Hall|pplaceid: 10248|pollid: 2011|electdist: 9|prec: 12,10
 precinct,Mason South / Bath Twps Pct,12
 precinct,Masonville 1,9
 precinct,Massee,12
-precinct,Massena 1,45
-precinct,Massena 2,45
-precinct,Massena 3,45
-precinct,Massena 4,45
-precinct,Massena 5,45
-precinct,Massena 6,45
-precinct,Massena 7,45
-precinct,Massena 8,45
+precinct,Massena 1,36
+precinct,Massena 2,36
+precinct,Massena 3,36
+precinct,Massena 4,36
+precinct,Massena 5,36
+precinct,Massena 6,36
+precinct,Massena 7,36
+precinct,Massena 8,36
 precinct,Massena Twp/Massena City,12
 precinct,Masuk High School,7
 precinct,Matapeake Elementary School|pplaceid: 14112|pollid: 3332|electdist: 4|prec: 3,10
@@ -106568,7 +106609,7 @@ precinct,Mays Chapel Elementary School Gym|pplaceid: 14674|pollid: 3084|electdis
 precinct,Mays Chapel United Methodist Church|pplaceid: 11255|pollid: 3288|electdist: 8|prec: 19,10
 precinct,Mazon 1,5
 precinct,McAdoo Township,4
-precinct,McAfee,6
+precinct,McAfee,2
 precinct,McAllaster Township,4
 precinct,McAllister,13
 precinct,McBee(*),2
@@ -106598,7 +106639,7 @@ precinct,McCranie,12
 precinct,McCrory Civic Center-17,12
 precinct,McCrory Civic/-18,12
 precinct,McCune,4
-precinct,McDaniels,6
+precinct,McDaniels,2
 precinct,McDonald City,4
 precinct,McDonough High School|pplaceid: 12602|pollid: 2117|electdist: 6|prec: 1,10
 precinct,McEachern 01,12
@@ -106624,7 +106665,7 @@ precinct,McPherson Ward 1 Exclave,4
 precinct,McPherson Ward 2,4
 precinct,McPherson Ward 3 Part A,4
 precinct,McPherson Ward 4 Precinct 1 Part A,4
-precinct,McQuady,6
+precinct,McQuady,2
 precinct,McRae,12
 precinct,McRae TWP,321
 precinct,McRae Ward 1,321
@@ -107263,8 +107304,8 @@ precinct,Morris 5,5
 precinct,Morris Community Hall,7
 precinct,Morrison,13
 precinct,Morrison Bluff,25
-precinct,Morristown 1,45
-precinct,Morristown 2,45
+precinct,Morristown 1,36
+precinct,Morristown 2,36
 precinct,Morristown Precinct,2
 precinct,Morrow,20
 precinct,Morton,2
@@ -107565,44 +107606,49 @@ precinct,N027,8
 precinct,N028,8
 precinct,N029,8
 precinct,N1,12
-precinct,N101,2
-precinct,N102,2
-precinct,N103,2
-precinct,N104,3
-precinct,N105,2
-precinct,N106,3
-precinct,N107,3
-precinct,N108,3
-precinct,N109,3
-precinct,N110,3
-precinct,N111,3
-precinct,N112,2
-precinct,N113,2
-precinct,N115,2
-precinct,N117,2
-precinct,N124,2
-precinct,N125,2
-precinct,N126 - INH,2
-precinct,N127,2
-precinct,N128,2
-precinct,N130,3
-precinct,N131,2
-precinct,N134,3
-precinct,N135,2
-precinct,N136,3
-precinct,N137,2
-precinct,N138,2
-precinct,N139,2
-precinct,N141 - INH,2
-precinct,N142 - WDH,2
-precinct,N143,3
-precinct,N144 - WLP,2
-precinct,N145,3
+precinct,N101,5
+precinct,N102,5
+precinct,N103,5
+precinct,N104,5
+precinct,N105,5
+precinct,N106,5
+precinct,N107,5
+precinct,N108,5
+precinct,N109,5
+precinct,N110,5
+precinct,N111,5
+precinct,N112,5
+precinct,N113,5
+precinct,N115,5
+precinct,N117,5
+precinct,N124,5
+precinct,N125,5
+precinct,N126,2
+precinct,N126 - INH,3
+precinct,N127,5
+precinct,N128,5
+precinct,N130,5
+precinct,N131,5
+precinct,N134,5
+precinct,N135,5
+precinct,N136,5
+precinct,N137,5
+precinct,N138,5
+precinct,N139,5
+precinct,N141,2
+precinct,N141 - INH,3
+precinct,N142,2
+precinct,N142 - WDH,3
+precinct,N143,5
+precinct,N144,2
+precinct,N144 - WLP,3
+precinct,N145,5
+precinct,N146,2
 precinct,N146 - STM,3
-precinct,N147,2
-precinct,N148,3
-precinct,N149,2
-precinct,N150,1
+precinct,N147,5
+precinct,N148,5
+precinct,N149,5
+precinct,N150,5
 precinct,N2,12
 precinct,N3,12
 precinct,N4,12
@@ -109225,9 +109271,9 @@ precinct,Nor 024,10
 precinct,Nor 025,10
 precinct,Nor 026,10
 precinct,Nor 027,10
-precinct,Norfolk 1,45
-precinct,Norfolk 2,45
-precinct,Norfolk 3,45
+precinct,Norfolk 1,36
+precinct,Norfolk 2,36
+precinct,Norfolk 3,36
 precinct,Norman - Inside,12
 precinct,Norman - Outside,12
 precinct,Norman 1,5
@@ -109249,11 +109295,11 @@ precinct,North Big Creek Township H110,4
 precinct,North Big Creek Township H111,4
 precinct,North Big Rock,20
 precinct,North Bonners Ferry,3
-precinct,North Booneville,6
-precinct,North Booneville East,6
+precinct,North Booneville,2
+precinct,North Booneville East,2
 precinct,North Branch Fire Department|pplaceid: 11293|pollid: 4508|electdist: 16|prec: 0,10
 precinct,North Brown Township,4
-precinct,North Burgin,6
+precinct,North Burgin,2
 precinct,North Burlingame,4
 precinct,North Carroll Middle School Gym|pplaceid: 13780|pollid: 2084|electdist: 6|prec: 2,10
 precinct,North Center,14
@@ -109472,34 +109518,41 @@ precinct,O Sullivan Dam 2 069,2
 precinct,O'KEAN,16
 precinct,O'Malley Senior Activity Center|pplaceid: 10094|pollid: 1811|electdist: 4|prec: 11,10
 precinct,O'NEAL,13
-precinct,O105,3
-precinct,O107,2
-precinct,O109,3
-precinct,O111,3
-precinct,O112,3
-precinct,O113,3
-precinct,O114,3
-precinct,O115,2
-precinct,O117 - SHI,2
-precinct,O119 - SHI,2
-precinct,O121 - SHI,2
-precinct,O123 - SHI,2
-precinct,O124 - SHI,2
+precinct,O105,5
+precinct,O107,5
+precinct,O109,5
+precinct,O111,5
+precinct,O112,5
+precinct,O113,5
+precinct,O114,5
+precinct,O115,5
+precinct,O117,2
+precinct,O117 - SHI,3
+precinct,O119,2
+precinct,O119 - SHI,3
+precinct,O121,2
+precinct,O121 - SHI,3
+precinct,O123,2
+precinct,O123 - SHI,3
+precinct,O124,2
+precinct,O124 - SHI,3
+precinct,O126,2
 precinct,O126 - SHI,3
-precinct,O127,2
-precinct,O128,3
-precinct,O129,2
-precinct,O130,2
-precinct,O131,3
-precinct,O133,3
-precinct,O134,2
-precinct,O135,2
-precinct,O136,2
-precinct,O137,3
-precinct,O138,3
-precinct,O139,2
-precinct,O142,2
-precinct,O143,2
+precinct,O127,5
+precinct,O128,5
+precinct,O129,5
+precinct,O130,5
+precinct,O131,5
+precinct,O133,5
+precinct,O134,5
+precinct,O135,5
+precinct,O136,5
+precinct,O137,5
+precinct,O138,5
+precinct,O139,5
+precinct,O141,5
+precinct,O142,5
+precinct,O143,5
 precinct,OAK 1,12
 precinct,OAK 2,12
 precinct,OAK 3,12
@@ -110954,12 +111007,12 @@ precinct,Ogden Township Fort Riley A,4
 precinct,Ogden Township Ward 2 Annex order 506,4
 precinct,Ogden Township Ward 4 Order 10-06-93,4
 precinct,Ogden Township Ward 5,4
-precinct,Ogdensburg 1,45
-precinct,Ogdensburg 2,45
-precinct,Ogdensburg 3,45
-precinct,Ogdensburg 4,45
-precinct,Ogdensburg 5,45
-precinct,Ogdensburg 6,45
+precinct,Ogdensburg 1,36
+precinct,Ogdensburg 2,36
+precinct,Ogdensburg 3,36
+precinct,Ogdensburg 4,36
+precinct,Ogdensburg 5,36
+precinct,Ogdensburg 6,36
 precinct,Oglala,2
 precinct,Oglethorpe,24
 precinct,Oglethorpe Point,12
@@ -111232,7 +111285,7 @@ precinct,Ontario 03,9
 precinct,Ontario 04,9
 precinct,Ontario 05,9
 precinct,Ontario 06,9
-precinct,Opera House,6
+precinct,Opera House,2
 precinct,Operation New View,12
 precinct,Opolis,4
 precinct,Oppenheim 1,9
@@ -111361,9 +111414,9 @@ precinct,Osolo 16,6
 precinct,Ossian 1,9
 precinct,Ossipee,5
 precinct,Ostrander,2
-precinct,Oswegatchie 1,45
-precinct,Oswegatchie 2,45
-precinct,Oswegatchie 3,45
+precinct,Oswegatchie 1,36
+precinct,Oswegatchie 2,36
+precinct,Oswegatchie 3,36
 precinct,Oswegatchie School,7
 precinct,Oswego City Ward 1,4
 precinct,Oswego City Ward 1 Exclave,4
@@ -116107,11 +116160,12 @@ precinct,PROVISIONAL 1-40,15
 precinct,PROVISIONAL 2,13
 precinct,PROVISIONAL 21-40,3
 precinct,PROVISIONAL 31-57,3
-precinct,PROVISIONAL 3RD,2
+precinct,PROVISIONAL 3RD,3
 precinct,PROVISIONAL 41-54,5
 precinct,PROVISIONAL 41-56,5
 precinct,PROVISIONAL 41-60,3
 precinct,PROVISIONAL 41-76,5
+precinct,PROVISIONAL 4TH,3
 precinct,PROVISIONAL 61-80,3
 precinct,PROVISIONAL 81-96,3
 precinct,PROVISIONAL BS 1-20,6
@@ -116329,8 +116383,8 @@ precinct,Paris 2,10
 precinct,Paris 3,10
 precinct,Paris Township,4
 precinct,Parish Grove,6
-precinct,Parishville 1,45
-precinct,Parishville 2,45
+precinct,Parishville 1,36
+precinct,Parishville 2,36
 precinct,Park Avenue School Gym,17
 precinct,Park City Magnet School,7
 precinct,Park Elementary School|pplaceid: 10036|pollid: 1749|electdist: 1|prec: 17,10
@@ -116418,7 +116472,7 @@ precinct,Parsonsburg Volunteer Fire Department|pplaceid: 14661|pollid: 5249|elec
 precinct,Pasadena Elementary School|pplaceid: 11081|pollid: 2885|electdist: 3|prec: 9,10
 precinct,Pasadena United Methodist Church|pplaceid: 11566|pollid: 3639|electdist: 5|prec: 29,10
 precinct,Pasadena United Methodist Church|pplaceid: 11566|pollid: 3640|electdist: 5|prec: 30,10
-precinct,Passmore House,6
+precinct,Passmore House,2
 precinct,Pat Colwell,12
 precinct,Patagonia 14,20
 precinct,Patapsco Elementary School #163|pplaceid: 11420|pollid: 3242|electdist: 25|prec: 9,10
@@ -116801,7 +116855,7 @@ precinct,Perrysburg,9
 precinct,Perrytown,12
 precinct,Perryville Middle School|pplaceid: 10332|pollid: 2104|electdist: 7|prec: 2,10
 precinct,Perryville Middle School|pplaceid: 10332|pollid: 5118|electdist: 7|prec: 4,10
-precinct,Perryville Toll Gate,6
+precinct,Perryville Toll Gate,2
 precinct,Pershing,6
 precinct,Persia,9
 precinct,Perth 1,9
@@ -116842,12 +116896,12 @@ precinct,Piccowaxen Middle School|pplaceid: 10364|pollid: 2138|electdist: 5|prec
 precinct,Pickensville,13
 precinct,Piedmont,13
 precinct,Pierce Church,5
-precinct,Piercefield 1,45
+precinct,Piercefield 1,36
 precinct,Piercetown,13
 precinct,Pierceville Precinct,4
 precinct,Piermont,4
-precinct,Pierrepont 1,45
-precinct,Pierrepont 2,45
+precinct,Pierrepont 1,36
+precinct,Pierrepont 2,36
 precinct,Pierson A,3
 precinct,Pike,31
 precinct,Pike 1,9
@@ -116915,7 +116969,7 @@ precinct,Pioneer Township,12
 precinct,Piqua Township,4
 precinct,Pirtleville|20,12
 precinct,Pisgah,20
-precinct,Pitcairn 1,45
+precinct,Pitcairn 1,36
 precinct,Pitkin Community Center,7
 precinct,Pitner 01,12
 precinct,Pittman,12
@@ -117187,14 +117241,14 @@ precinct,Potomac Methodist Parish Center|pplaceid: 14302|pollid: 4612|electdist:
 precinct,Potomac Towers|pplaceid: 10943|pollid: 2738|electdist: 3|prec: 1,10
 precinct,Potomac Valley Fire Hall|pplaceid: 10960|pollid: 2755|electdist: 11|prec: 2,10
 precinct,Potrero 22,20
-precinct,Potsdam 1,45
-precinct,Potsdam 2,45
-precinct,Potsdam 3,45
-precinct,Potsdam 4,45
-precinct,Potsdam 5,45
-precinct,Potsdam 6,45
-precinct,Potsdam 7,45
-precinct,Potsdam 8,45
+precinct,Potsdam 1,36
+precinct,Potsdam 2,36
+precinct,Potsdam 3,36
+precinct,Potsdam 4,36
+precinct,Potsdam 5,36
+precinct,Potsdam 6,36
+precinct,Potsdam 7,36
+precinct,Potsdam 8,36
 precinct,Pottawatomie County,4
 precinct,Pottawatomie Township,8
 precinct,Potter,20
@@ -117900,32 +117954,32 @@ precinct,Q082,8
 precinct,Q083,8
 precinct,Q090,8
 precinct,Q091,8
-precinct,Q101,3
-precinct,Q103,3
-precinct,Q104,3
-precinct,Q105,2
-precinct,Q107,2
-precinct,Q109,3
-precinct,Q112,3
-precinct,Q113,3
-precinct,Q114,2
-precinct,Q115,3
-precinct,Q116,2
-precinct,Q117,3
-precinct,Q119,3
-precinct,Q122,3
-precinct,Q123,2
-precinct,Q124,3
-precinct,Q125,3
-precinct,Q126,2
-precinct,Q127,2
-precinct,Q131,3
-precinct,Q132,2
-precinct,Q134,2
-precinct,Q136,3
-precinct,Q137,2
-precinct,Q138,3
-precinct,Q139,2
+precinct,Q101,5
+precinct,Q103,5
+precinct,Q104,5
+precinct,Q105,5
+precinct,Q107,5
+precinct,Q109,5
+precinct,Q112,5
+precinct,Q113,5
+precinct,Q114,5
+precinct,Q115,5
+precinct,Q116,5
+precinct,Q117,5
+precinct,Q119,5
+precinct,Q122,5
+precinct,Q123,5
+precinct,Q124,5
+precinct,Q125,5
+precinct,Q126,5
+precinct,Q127,5
+precinct,Q131,5
+precinct,Q132,5
+precinct,Q134,5
+precinct,Q136,5
+precinct,Q137,5
+precinct,Q138,5
+precinct,Q139,5
 precinct,QC 1-1,4
 precinct,QUA,12
 precinct,QUAIL HOLLOW,16
@@ -119735,7 +119789,7 @@ precinct,Robertstown,12
 precinct,Robins,12
 precinct,Robinson,17
 precinct,Robinson Township,4
-precinct,Robinson-House,6
+precinct,Robinson-House,2
 precinct,Roc Roe City,20
 precinct,Roc Roe Country,20
 precinct,Roc-Roe/Roe City,25
@@ -119880,7 +119934,7 @@ precinct,Rose 02,9
 precinct,Rose Bud City,321
 precinct,Rose City Senior Center,7
 precinct,Rose Creek Township,4
-precinct,Rose Hill,6
+precinct,Rose Hill,2
 precinct,Rose Hill City,4
 precinct,Rose Hill City Exclave A,4
 precinct,Rose Hill City Exclave B,4
@@ -119915,7 +119969,7 @@ precinct,Ross Township Roseland,4
 precinct,Ross Township West Mineral,4
 precinct,Ross/woodward,12
 precinct,Rosses,13
-precinct,Rossie 1,45
+precinct,Rossie 1,36
 precinct,Rosston City,20
 precinct,Rosston Rural,20
 precinct,Rossville,13
@@ -119984,7 +120038,7 @@ precinct,Rush 3,10
 precinct,Rush 4,10
 precinct,Rushford,9
 precinct,Rushville Township,4
-precinct,Russell 1,45
+precinct,Russell 1,36
 precinct,Russell City,321
 precinct,Russell City TWP,321
 precinct,Russell Community Center-City of Russell Cedar and Washington Townships,12
@@ -120085,35 +120139,37 @@ precinct,S006,8
 precinct,S007,8
 precinct,S008,8
 precinct,S009,8
-precinct,S116,2
-precinct,S118,2
-precinct,S119,3
-precinct,S125,2
-precinct,S126 - PSP,2
-precinct,S128,3
-precinct,S129,2
-precinct,S130,3
-precinct,S131,2
-precinct,S132,3
-precinct,S135,3
-precinct,S139,3
-precinct,S140,3
-precinct,S141,2
-precinct,S142,2
-precinct,S143,2
+precinct,S116,5
+precinct,S118,5
+precinct,S119,5
+precinct,S125,5
+precinct,S126,2
+precinct,S126 - PSP,3
+precinct,S128,5
+precinct,S129,5
+precinct,S130,5
+precinct,S131,5
+precinct,S132,5
+precinct,S135,5
+precinct,S139,5
+precinct,S140,5
+precinct,S141,5
+precinct,S142,5
+precinct,S143,5
+precinct,S144,2
 precinct,S144 - PSP,3
-precinct,S146,3
-precinct,S150,2
-precinct,S152,2
-precinct,S153,3
-precinct,S156,2
-precinct,S160,3
-precinct,S161,2
-precinct,S164,3
-precinct,S165,3
-precinct,S166,2
-precinct,S167,3
-precinct,S168,2
+precinct,S146,5
+precinct,S150,5
+precinct,S152,5
+precinct,S153,5
+precinct,S156,5
+precinct,S160,5
+precinct,S161,5
+precinct,S164,5
+precinct,S165,5
+precinct,S166,5
+precinct,S167,5
+precinct,S168,5
 precinct,S1S2,12
 precinct,SA,12
 precinct,SA01,8
@@ -123011,7 +123067,7 @@ precinct,Saluda River,13
 precinct,Salvation Army - Annapolis|pplaceid: 10022|pollid: 1731|electdist: 6|prec: 15,10
 precinct,Salvation Army Community Center,7
 precinct,Salvation Army Community Center|pplaceid: 10008|pollid: 4522|electdist: 4|prec: 8,10
-precinct,Salvisa,6
+precinct,Salvisa,2
 precinct,Salzer,2
 precinct,Samuel Huntington Elementary School,7
 precinct,Samuel Staples School,7
@@ -123995,9 +124051,9 @@ precinct,South Bend 3,2
 precinct,South Bend 3R,2
 precinct,South Bend Township,4
 precinct,South Big Rock,20
-precinct,South Booneville,6
+precinct,South Booneville,2
 precinct,South Brown Township,4
-precinct,South Burgin,6
+precinct,South Burgin,2
 precinct,South Burlingame,4
 precinct,South Carroll High School Fine Arts Lobby|pplaceid: 13917|pollid: 4969|electdist: 14|prec: 3,10
 precinct,South Carroll High School Main Gym|pplaceid: 13917|pollid: 2096|electdist: 14|prec: 2,10
@@ -124513,9 +124569,9 @@ precinct,Stillwater East,2
 precinct,Stillwater West,2
 precinct,Stilson,12
 precinct,Stites 1,5
-precinct,Stockholm 1,45
-precinct,Stockholm 2,45
-precinct,Stockholm 3,45
+precinct,Stockholm 1,36
+precinct,Stockholm 2,36
+precinct,Stockholm 3,36
 precinct,Stockport,12
 precinct,Stockport-1,20
 precinct,Stockport-2,20
@@ -124580,9 +124636,9 @@ precinct,Strathmore Elementary School|pplaceid: 11141|pollid: 2465|electdist: 13
 precinct,Strawberry,20
 precinct,Strawberry Knoll Elementary School|pplaceid: 10559|pollid: 2341|electdist: 9|prec: 22,10
 precinct,Strawberry Township,4
-precinct,Stringtown,6
+precinct,Stringtown,2
 precinct,Strong School,7
-precinct,Sturgeon,6
+precinct,Sturgeon,2
 precinct,Stuyvesant-1,20
 precinct,Stuyvesant-2,20
 precinct,Sublette 1 H122,4
@@ -126957,7 +127013,7 @@ precinct,Ten Mile Township,4
 precinct,Tenino 01,2
 precinct,Tenino 02,2
 precinct,Tennessee,20
-precinct,Terrapin,6
+precinct,Terrapin,2
 precinct,Terrell Mill 01,12
 precinct,Tesnatee,12
 precinct,Thalberg School,7
@@ -129769,7 +129825,7 @@ precinct,Union 6,9
 precinct,Union 7,9
 precinct,Union Center Township,4
 precinct,Union Point,12
-precinct,Union Star,6
+precinct,Union Star,2
 precinct,Union Town Hall,7
 precinct,Union Township,60
 precinct,Union Township / Latham,4
@@ -129921,37 +129977,41 @@ precinct,V055,8
 precinct,V056,8
 precinct,V057,8
 precinct,V058,8
-precinct,V101,3
-precinct,V102,3
-precinct,V103,3
-precinct,V104,3
-precinct,V105,3
-precinct,V106,3
-precinct,V107,2
-precinct,V108,2
-precinct,V109,2
-precinct,V110,2
-precinct,V111,2
-precinct,V112,2
-precinct,V113,3
-precinct,V114,3
+precinct,V101,5
+precinct,V102,5
+precinct,V103,5
+precinct,V104,5
+precinct,V105,5
+precinct,V106,5
+precinct,V107,5
+precinct,V108,5
+precinct,V109,5
+precinct,V110,5
+precinct,V111,5
+precinct,V112,5
+precinct,V113,5
+precinct,V114,5
+precinct,V115,2
 precinct,V115 - JEF,3
-precinct,V116,2
-precinct,V117,2
-precinct,V118,2
-precinct,V119,3
+precinct,V116,5
+precinct,V117,5
+precinct,V118,5
+precinct,V119,5
+precinct,V120,2
 precinct,V120 - MID,3
-precinct,V121,2
-precinct,V123,1
-precinct,V124 - MID,2
-precinct,V125,2
-precinct,V126,3
-precinct,V127,2
-precinct,V128,3
-precinct,V129,3
-precinct,V130,2
-precinct,V131,3
-precinct,V132,2
+precinct,V121,5
+precinct,V122,5
+precinct,V123,5
+precinct,V124,2
+precinct,V124 - MID,3
+precinct,V125,5
+precinct,V126,5
+precinct,V127,5
+precinct,V128,5
+precinct,V129,5
+precinct,V130,5
+precinct,V131,5
+precinct,V132,5
 precinct,VA,16
 precinct,VAILS,5
 precinct,VALLEY,25
@@ -131802,13 +131862,13 @@ precinct,WALDON WOODS ELEMENTARY SCHL|pplaceid: 13676|pollid: 2657|electdist: 9|
 precinct,WALES MUNICIPAL,4
 precinct,WALESKA,12
 precinct,WALK-IN 3RD A-D,3
-precinct,WALK-IN 3RD E,2
+precinct,WALK-IN 3RD E,3
 precinct,WALK-IN 3RD F-G,3
-precinct,WALK-IN 3RD H-J,2
+precinct,WALK-IN 3RD H-J,3
 precinct,WALK-IN 3RD K-M,3
 precinct,WALK-IN 3RD NOQV,3
 precinct,WALK-IN 3RD S,3
-precinct,WALK-IN 4TH,2
+precinct,WALK-IN 4TH,3
 precinct,WALKER,9
 precinct,WALKER BUTTE,16
 precinct,WALKER SPR OVERSTREET GRO,5
@@ -133635,8 +133695,8 @@ precinct,Wabaunsee Township S18,4
 precinct,Wachter (Civic Center),5
 precinct,Waddell Creek,2
 precinct,Waddell School,7
-precinct,Waddington 1,45
-precinct,Waddington 2,45
+precinct,Waddington 1,36
+precinct,Waddington 2,36
 precinct,Wade 1,5
 precinct,Wade 2,5
 precinct,Wade Green 02,12
@@ -136615,7 +136675,7 @@ precinct,Westside Skill Center|pplaceid: 14172|pollid: 2938|electdist: 16|prec: 
 precinct,Westslope 1 053,2
 precinct,Westslope 2 059,2
 precinct,Westtown Elem School,12
-precinct,Westview,6
+precinct,Westview,2
 precinct,Westview 1,13
 precinct,Westview 2,13
 precinct,Westview 3,13
@@ -137481,8 +137541,8 @@ precinct,ward 1,2
 precinct,ward 2,2
 precinct,ward 3,2
 precinct,,1408
-special,False,1006027
-stage,gen,1006027
+special,False,1006605
+stage,gen,1006605
 state,Alabama,11533
 state,Alaska,3941
 state,Arizona,13824
@@ -137498,13 +137558,13 @@ state,Illinois,46039
 state,Indiana,19474
 state,Iowa,20160
 state,Kansas,15171
-state,Kentucky,9054
+state,Kentucky,10361
 state,Louisiana,96768
 state,Maryland,21109
 state,Missouri,16001
 state,Nevada,13006
 state,New Hampshire,1416
-state,New York,173986
+state,New York,173257
 state,North Carolina,36455
 state,North Dakota,2160
 state,Ohio,53322
@@ -137532,13 +137592,13 @@ state_fips,17,46039
 state_fips,18,19474
 state_fips,19,20160
 state_fips,20,15171
-state_fips,21,9054
+state_fips,21,10361
 state_fips,22,96768
 state_fips,24,21109
 state_fips,29,16001
 state_fips,32,13006
 state_fips,33,1416
-state_fips,36,173986
+state_fips,36,173257
 state_fips,37,36455
 state_fips,38,2160
 state_fips,39,53322
@@ -137554,7 +137614,7 @@ state_fips,55,18180
 state_icpsr,1,5091
 state_icpsr,4,1416
 state_icpsr,6,1650
-state_icpsr,13,173986
+state_icpsr,13,173257
 state_icpsr,14,27528
 state_icpsr,21,46039
 state_icpsr,22,19474
@@ -137572,7 +137632,7 @@ state_icpsr,44,32316
 state_icpsr,45,96768
 state_icpsr,47,36455
 state_icpsr,48,33150
-state_icpsr,51,9054
+state_icpsr,51,10361
 state_icpsr,52,21109
 state_icpsr,53,29370
 state_icpsr,61,13824
@@ -137600,7 +137660,7 @@ state_postal,ID,2882
 state_postal,IL,46039
 state_postal,IN,19474
 state_postal,KS,15171
-state_postal,KY,9054
+state_postal,KY,10361
 state_postal,LA,96768
 state_postal,MD,21109
 state_postal,MO,16001
@@ -137608,7 +137668,7 @@ state_postal,NC,36455
 state_postal,ND,2160
 state_postal,NH,1416
 state_postal,NV,13006
-state_postal,NY,173986
+state_postal,NY,173257
 state_postal,OH,53322
 state_postal,OK,29370
 state_postal,OR,9604
@@ -137619,6 +137679,6 @@ state_postal,UT,8924
 state_postal,VT,1650
 state_postal,WA,9220
 state_postal,WI,18180
-writein,False,937111
-writein,True,68916
-year,2016,1006027
+writein,False,937301
+writein,True,69304
+year,2016,1006605

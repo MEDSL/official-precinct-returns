@@ -116,7 +116,10 @@ unopposed candidates. We've dropped them.
 Added 2018-04-09.
 
   - Write-in votes are not yet included in the data. They're available only by
-county from the [Secretary of State](http://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-november-8-2016/statement-vote). (Our precinct-level returns are from the [Statewide Database](http://statewidedatabase.org/d10/g16.html).)
+county from the [Secretary of State](http://www.sos.ca.gov/elections/prior-
+elections/statewide-election-results/general-election-
+november-8-2016/statement-vote). (Our precinct-level returns are from the
+[Statewide Database](http://statewidedatabase.org/d10/g16.html).)
 
 
 ## Colorado
@@ -316,9 +319,6 @@ Added 2018-03-11.
 
 Added 2018-04-23.
 
-  - The data are not as clean in New York as elsewhere because of the need for
-county-by-county collection. The returns over-count the major-party
-presidential vote by ~35K ballots (see GitHub issue \#2, h/t @wtadler).
   - Candidate names for lower office are not always consistent across counties.
 
 

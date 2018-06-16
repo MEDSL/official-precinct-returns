@@ -3,6 +3,19 @@
 URL: http://dx.doi.org/10.7910/DVN/PSKDUJ
 
 
+## 2018-06-16
+
+In this release, we add returns for local races in New Hampshire, and improve
+the data for Kentucky and New York by removing duplicative rows that inflated
+vote counts.
+
+
+## 2018-06-15
+
+This bugfix release assigns Arizona returns to the correct archives/dataverses,
+and adds excluded returns from Tillamook County, Oregon.
+
+
 ## 2018-06-12
 
 The data now include state legislative returns from New Hampshire and Idaho,
