@@ -2,11 +2,7 @@
 
 URL: https://dx.doi.org/10.7910/DVN/Q8OHRS
 
-<<<<<<< HEAD
-Version: 2018-06-12
-=======
-Version: 2018-06-15
->>>>>>> fixup
+Version: 2018-06-16
 
 | State                   | Added      |
 | ----------------------- | ---------- |
