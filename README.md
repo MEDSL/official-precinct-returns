@@ -210,9 +210,6 @@ Added 2018-04-23.
 
 Added 2018-04-23.
 
-  - See GitHub issue \#2. There are ~20K too many votes for the major-party
-presidential candidates, likely the result of doubly-counted ballots.
-
 
 ## Louisiana
 
