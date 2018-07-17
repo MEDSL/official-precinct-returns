@@ -2,7 +2,7 @@
 
 URL: http://dx.doi.org/10.7910/DVN/PSKDUJ
 
-Version: 2018-06-16
+Version: 2018-07-16
 
 This codebook describes a dataset on precinct-level returns for elections to
 the U.S. House of Representatives.

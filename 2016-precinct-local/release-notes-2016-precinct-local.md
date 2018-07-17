@@ -3,6 +3,14 @@
 URL: https://dx.doi.org/10.7910/DVN/Q8OHRS
 
 
+## 2018-07-16
+
+This release adds write-in votes in California, DC, Delaware, Georgia, Indiana,
+Michigan, Minnesota, Montana, Nebraska, North Dakota, Ohio, Rhode Island,
+Texas, Vermont, Virginia, Washington, Wisconsin, and Wyoming. It also
+incorporates ongoing work on data quality across the states.
+
+
 ## 2018-06-16
 
 In this release, we add returns for local races in New Hampshire, and improve

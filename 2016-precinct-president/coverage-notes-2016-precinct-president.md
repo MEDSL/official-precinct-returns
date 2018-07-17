@@ -2,7 +2,7 @@
 
 URL: http://dx.doi.org/10.7910/DVN/LYWX3D
 
-Version: 2018-06-16
+Version: 2018-07-16
 
 | State                   | Added      |
 | ----------------------- | ---------- |
@@ -49,7 +49,7 @@ Version: 2018-06-16
 | South Carolina          | 2018-03-29 |
 | South Dakota            | 2018-04-09 |
 | Tennessee               | 2018-03-11 |
-| Texas                   | 2018-04-09 |
+| Texas                   | 2018-04-09 - There are no returns for local races. |
 | Utah                    | 2018-04-23 |
 | Vermont                 | 2018-04-09 |
 | Virginia                | 2018-03-29 |
@@ -68,8 +68,6 @@ Added 2018-03-29.
 and `candidate` values of, for example, `Alabama Republican Party`. To
 calculate vote totals, sum the votes candidates' received on their own lines
 and from party-line voting.
-  - The data don't yet include write-in votes for president.
-  - No elections to the Alabama House or Senate were held in 2016.
 
 
 ## Alaska
@@ -104,12 +102,6 @@ unopposed candidates. We've dropped them.
 
 Added 2018-04-09.
 
-  - Write-in votes are not yet included in the data. They're available only by
-county from the [Secretary of State](http://www.sos.ca.gov/elections/prior-
-elections/statewide-election-results/general-election-
-november-8-2016/statement-vote). (Our precinct-level returns are from the
-[Statewide Database](http://statewidedatabase.org/d10/g16.html).)
-
 
 ## Colorado
 
@@ -125,14 +117,11 @@ Added 2018-03-11.
 
 Added 2018-05-09.
 
-  - The data don't yet include write-in votes.
-
 
 ## District of Columbia
 
 Added 2018-03-11.
 
-  - The data don't yet include write-in votes for president.
   - Returns for the Council and Advisory Referendum can be found in the `state`
 dataverse. Advisory Neighborhood Commission returns are in the `local`
 dataverse.
@@ -146,8 +135,6 @@ Added 2018-05-09.
 ## Georgia
 
 Added 2018-04-23.
-
-  - The data don't yet include third-party or write-in votes for president.
 
 
 ## Hawaii
@@ -181,8 +168,6 @@ in the source data.
 Added 2018-06-05.
 
   - Candidate names for lower office are not always consistent across counties.
-  - The data don't yet include write-in votes for president, with the exception of
-returns from La Porte and Marshall.
 
 
 ## Iowa
@@ -228,7 +213,6 @@ Added 2018-03-29.
 
 Added 2018-04-09.
 
-  - The data don't yet include write-in votes for president.
   - Note when aggregating over `precinct` the rows that represent "statistical
 adjustments."
 
@@ -237,7 +221,6 @@ adjustments."
 
 Added 2018-03-29.
 
-  - The data don't yet include write-in votes for president.
   - Democratic candidate `party` values are left as `Democratic-Farmer-Labor`.
 
 
@@ -262,14 +245,11 @@ future we may include sub-county and place identifiers.
 
 Added 2018-05-10.
 
-  - The data don't yet include write-in votes for president.
-
 
 ## Nebraska
 
 Added 2018-04-23.
 
-  - The data don't yet include write-in votes.
   - There are no returns for local races.
   - Nebraska Legislature returns appear with an `office` value of `State Senate`.
 
@@ -317,14 +297,10 @@ Added 2018-03-29.
 
 Added 2018-03-11.
 
-  - The data don't yet include write-in votes for president.
-
 
 ## Ohio
 
 Added 2018-04-23.
-
-  - The data don't yet include write-in votes for president.
 
 
 ## Oklahoma
@@ -348,8 +324,6 @@ Added 2018-04-23.
 ## Rhode Island
 
 Added 2018-03-29.
-
-  - The data don't yet include write-in votes for president.
 
 
 ## South Carolina
@@ -375,10 +349,7 @@ Added 2018-03-11.
 
 ## Texas
 
-Added 2018-04-09.
-
-  - The data don't yet include write-in votes for president.
-  - There are no returns for local races.
+Added 2018-04-09 - There are no returns for local races..
 
 
 ## Utah
@@ -390,15 +361,10 @@ Added 2018-04-23.
 
 Added 2018-04-09.
 
-  - The data don't yet include write-in votes for president, except for the ~18,000
-cast for Bernie Sanders and reported at the precinct level.
-
 
 ## Virginia
 
 Added 2018-03-29.
-
-  - The data don't yet include write-in votes for president.
 
 
 ## Washington
@@ -406,8 +372,6 @@ Added 2018-03-29.
 Added 2018-04-09.
 
   - King County results appear for now as county aggregates.
-  - The data don't yet include about 108,000 write-in votes for president, which
-are available at the county level.
 
 
 ## West Virginia
@@ -422,11 +386,8 @@ Added 2018-05-10.
 Added 2018-03-29.
 
   - Presidential returns are post-recount.
-  - The data don't yet include write-in votes for president.
 
 
 ## Wyoming
 
 Added 2018-03-11.
-
-  - The data don't yet include write-in votes for president.
