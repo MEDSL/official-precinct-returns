@@ -2,7 +2,7 @@
 
 URL: http://dx.doi.org/10.7910/DVN/NLTQAD
 
-Version: 2018-07-16
+Version: 2018-07-17
 
 | State                   | Added      |
 | ----------------------- | ---------- |
