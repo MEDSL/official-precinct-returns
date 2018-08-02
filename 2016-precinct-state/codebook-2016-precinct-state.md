@@ -2,7 +2,7 @@
 
 URL: http://dx.doi.org/10.7910/DVN/GSZG1O
 
-Version: 2018-07-17
+Version: 2018-08-02
 
 This codebook describes a dataset on precinct-level returns for elections to
 state office.

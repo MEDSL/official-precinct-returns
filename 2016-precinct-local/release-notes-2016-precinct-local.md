@@ -3,6 +3,11 @@
 URL: https://dx.doi.org/10.7910/DVN/Q8OHRS
 
 
+## 2018-08-02
+
+Adds write-in votes requested from jurisdictions.
+
+
 ## 2018-07-16
 
 This release adds write-in votes in California, DC, Delaware, Georgia, Indiana,

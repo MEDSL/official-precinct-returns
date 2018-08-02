@@ -305,7 +305,11 @@ Added 2018-03-11.
 
 ## Texas
 
-Added 2018-04-09 - There are no returns for local races..
+Added 2018-04-09.
+
+  - There are no returns for local races.
+  - Returns for uncontested races to the Texas House of Representatives do not
+appear in the data.
 
 
 ## Utah

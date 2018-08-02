@@ -2,7 +2,7 @@
 
 URL: http://dx.doi.org/10.7910/DVN/LYWX3D
 
-Version: 2018-07-17
+Version: 2018-08-02
 
 | State                   | Added      |
 | ----------------------- | ---------- |
@@ -49,7 +49,7 @@ Version: 2018-07-17
 | South Carolina          | 2018-03-29 |
 | South Dakota            | 2018-04-09 |
 | Tennessee               | 2018-03-11 |
-| Texas                   | 2018-04-09 - There are no returns for local races. |
+| Texas                   | 2018-04-09 |
 | Utah                    | 2018-04-23 |
 | Vermont                 | 2018-04-09 |
 | Virginia                | 2018-03-29 |
@@ -349,7 +349,11 @@ Added 2018-03-11.
 
 ## Texas
 
-Added 2018-04-09 - There are no returns for local races..
+Added 2018-04-09.
+
+  - There are no returns for local races.
+  - Returns for uncontested races to the Texas House of Representatives do not
+appear in the data.
 
 
 ## Utah

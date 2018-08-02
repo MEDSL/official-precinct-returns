@@ -2,3 +2,4 @@
 *.feather
 env
 !frequencies*.csv
+*.zip.zip
