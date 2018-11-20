@@ -16,7 +16,7 @@ Returns by state are in the `source` directory. These are alternative partitions
 # Coverage
 
 
-## Alabama
+## Alabama: 2016
 
 Added 2018-03-29.
 
@@ -26,7 +26,7 @@ calculate vote totals, sum the votes candidates' received on their own lines
 and from party-line voting.
 
 
-## Alaska
+## Alaska: 2016
 
 Added 2018-03-11.
 
@@ -34,7 +34,7 @@ Added 2018-03-11.
 county-equivalents are missing.
 
 
-## Arizona
+## Arizona: 2016
 
 Added 2018-05-09.
 
@@ -44,7 +44,7 @@ Candidate name spellings aren't entirely consistent.
 `State House` or `State Senate`.
 
 
-## Arkansas
+## Arkansas: 2016
 
 Added 2018-05-04.
 
@@ -54,27 +54,27 @@ candidates. But these totals are slightly lower than the sum of votes for all
 unopposed candidates. We've dropped them.
 
 
-## California
+## California: 2016
 
 Added 2018-04-09.
 
 
-## Colorado
+## Colorado: 2016
 
 Added 2018-03-11.
 
 
-## Connecticut
+## Connecticut: 2016
 
 Added 2018-03-11.
 
 
-## Delaware
+## Delaware: 2016
 
 Added 2018-05-09.
 
 
-## District of Columbia
+## District of Columbia: 2016
 
 Added 2018-03-11.
 
@@ -83,17 +83,17 @@ dataverse. Advisory Neighborhood Commission returns are in the `local`
 dataverse.
 
 
-## Florida
+## Florida: 2016
 
 Added 2018-05-09.
 
 
-## Georgia
+## Georgia: 2016
 
 Added 2018-04-23.
 
 
-## Hawaii
+## Hawaii: 2016
 
 Added 2018-03-29.
 
@@ -101,14 +101,14 @@ Added 2018-03-29.
 `jurisdiction` or `county_name`; it doesn't administer elections.
 
 
-## Idaho
+## Idaho: 2016
 
 Added 2018-03-11.
 
   - Idaho House and Senate returns were added 2018-06-12.
 
 
-## Illinois
+## Illinois: 2016
 
 Added 2018-04-23.
 
@@ -119,53 +119,53 @@ and precinct, using the jurisdiction given by the `JurisContainerID` variable
 in the source data.
 
 
-## Indiana
+## Indiana: 2016
 
 Added 2018-06-05.
 
   - Candidate names for lower office are not always consistent across counties.
 
 
-## Iowa
+## Iowa: 2016
 
 Added 2018-04-23.
 
 
-## Kansas
+## Kansas: 2016
 
 Added 2018-04-23.
 
 
-## Kentucky
+## Kentucky: 2016
 
 Added 2018-04-23.
 
 
-## Louisiana
+## Louisiana: 2016
 
 Added 2018-03-11.
 
   - No elections to the Louisiana House or Senate were held in 2016.
 
 
-## Maine
+## Maine: 2016
 
 Added 2018-05-09.
 
   - County identifiers aren't yet available for all jurisdictions.
 
 
-## Maryland
+## Maryland: 2016
 
 Added 2018-06-04.
 
 
-## Massachusetts
+## Massachusetts: 2016
 
 Added 2018-03-29.
 
 
-## Michigan
+## Michigan: 2016
 
 Added 2018-04-09.
 
@@ -173,14 +173,14 @@ Added 2018-04-09.
 adjustments."
 
 
-## Minnesota
+## Minnesota: 2016
 
 Added 2018-03-29.
 
   - Democratic candidate `party` values are left as `Democratic-Farmer-Labor`.
 
 
-## Mississippi
+## Mississippi: 2016
 
 Added 2018-05-09.
 
@@ -188,7 +188,7 @@ Added 2018-05-09.
 `State House`.
 
 
-## Missouri
+## Missouri: 2016
 
 Added 2018-05-10.
 
@@ -197,12 +197,12 @@ by the municipality. (The associated Census Place FIPS is `2938000`.) In the
 future we may include sub-county and place identifiers.
 
 
-## Montana
+## Montana: 2016
 
 Added 2018-05-10.
 
 
-## Nebraska
+## Nebraska: 2016
 
 Added 2018-04-23.
 
@@ -210,7 +210,7 @@ Added 2018-04-23.
   - Nebraska Legislature returns appear with an `office` value of `State Senate`.
 
 
-## Nevada
+## Nevada: 2016
 
 Added 2018-04-23.
 
@@ -218,48 +218,48 @@ Added 2018-04-23.
 ballot secrecy. Details forthcoming.
 
 
-## New Hampshire
+## New Hampshire: 2016
 
 Added 2018-05-10.
 
   - State legislative returns are post-recount, and added 2018-06-12.
 
 
-## New Jersey
+## New Jersey: 2016
 
 Added 2018-06-04.
 
   - Candidate names for lower office are not always consistent across counties.
 
 
-## New Mexico
+## New Mexico: 2016
 
 Added 2018-03-11.
 
 
-## New York
+## New York: 2016
 
 Added 2018-04-23.
 
   - Candidate names for lower office are not always consistent across counties.
 
 
-## North Carolina
+## North Carolina: 2016
 
 Added 2018-03-29.
 
 
-## North Dakota
+## North Dakota: 2016
 
 Added 2018-03-11.
 
 
-## Ohio
+## Ohio: 2016
 
 Added 2018-04-23.
 
 
-## Oklahoma
+## Oklahoma: 2016
 
 Added 2018-03-29.
 
@@ -267,22 +267,22 @@ Added 2018-03-29.
 Bridenstine's opponent withdrew and left him unopposed.
 
 
-## Oregon
+## Oregon: 2016
 
 Added 2018-04-09.
 
 
-## Pennsylvania
+## Pennsylvania: 2016
 
 Added 2018-04-23.
 
 
-## Rhode Island
+## Rhode Island: 2016
 
 Added 2018-03-29.
 
 
-## South Carolina
+## South Carolina: 2016
 
 Added 2018-03-29.
 
@@ -291,19 +291,19 @@ Added 2018-03-29.
 received on their own lines and from party-line voting.
 
 
-## South Dakota
+## South Dakota: 2016
 
 Added 2018-04-09.
 
 
-## Tennessee
+## Tennessee: 2016
 
 Added 2018-03-11.
 
   - There are no returns for local races.
 
 
-## Texas
+## Texas: 2016
 
 Added 2018-04-09.
 
@@ -312,43 +312,43 @@ Added 2018-04-09.
 appear in the data.
 
 
-## Utah
+## Utah: 2016
 
 Added 2018-04-23.
 
 
-## Vermont
+## Vermont: 2016
 
 Added 2018-04-09.
 
 
-## Virginia
+## Virginia: 2016
 
 Added 2018-03-29.
 
 
-## Washington
+## Washington: 2016
 
 Added 2018-04-09.
 
   - King County results appear for now as county aggregates.
 
 
-## West Virginia
+## West Virginia: 2016
 
 Added 2018-05-10.
 
   - The data don't yet include write-in votes for president.
 
 
-## Wisconsin
+## Wisconsin: 2016
 
 Added 2018-03-29.
 
   - Presidential returns are post-recount.
 
 
-## Wyoming
+## Wyoming: 2016
 
 Added 2018-03-11.
 
